@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11396" data-name="Rectangle 11396" class="cls-1" width="16" height="16" transform="translate(-8662 333)"/>
+    </clipPath>
+  </defs>
+  <g id="icon_topselling" class="cls-2" transform="translate(8662 -333)">
+    <path id="auto_awesome_FILL0_wght400_GRAD0_opsz48" d="M14.02,5.9l-.781-1.816-1.889-.835,1.889-.817L14.02.708,14.8,2.434l1.889.817L14.8,4.086Zm0,10.806-.781-1.743-1.889-.817,1.889-.817L14.02,11.5,14.8,13.33l1.889.817-1.889.817Zm-7.973-2.8L4.377,10.334.726,8.7l3.65-1.635,1.671-3.56,1.689,3.56L11.369,8.7,7.737,10.334Zm0-2.688L6.919,9.48,8.7,8.7l-1.78-.781L6.048,6.175,5.194,7.918,3.4,8.7l1.8.781ZM6.048,8.7Z" transform="translate(-8662.708 332.292)"/>
+  </g>
+</svg>

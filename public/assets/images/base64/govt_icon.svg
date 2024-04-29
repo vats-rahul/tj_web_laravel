@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Govt</title>
+    
+    <g id="Govt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+        <g id="Govt-(1)" transform="translate(0.000000, -1.000000)">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="39" height="39"></rect>
+            <g id="american-government-building" transform="translate(3.000000, 2.000000)">
+                <g id="Group_2199" transform="translate(0.555591, 0.000000)">
+                    <path d="M28.8358636,14.2399184 L24.1732273,14.2399184 C23.9282727,9.45502041 21.0050455,5.61469388 17.3129545,5.19126531 C17.2492736,3.44329415 17.0218623,1.70521312 16.6337273,0 C16.2450736,1.70669351 16.0176577,3.44636793 15.9545,5.19591837 C12.2639545,5.61934694 9.33840909,9.46122449 9.09345455,14.2445714 L4.43081818,14.2445714 L4.43081818,16.0615918 L28.8358636,16.0615918 L28.8358636,14.2399184 Z" id="Path_4532" fill="#FB702C"></path>
+                    <rect id="Rectangle_1609" fill="#4A4A4A" x="5.26381818" y="16.602898" width="1.88313636" height="7.63179592"></rect>
+                    <rect id="Rectangle_1610" fill="#4A4A4A" x="10.3329091" y="16.602898" width="1.88313636" height="7.63179592"></rect>
+                    <rect id="Rectangle_1611" fill="#4A4A4A" x="20.7616364" y="16.602898" width="1.88236364" height="7.63179592"></rect>
+                    <rect id="Rectangle_1612" fill="#4A4A4A" x="25.8307273" y="16.602898" width="1.88313636" height="7.63179592"></rect>
+                    <rect id="Rectangle_1613" fill="#4A4A4A" x="15.6917727" y="16.602898" width="1.88313636" height="7.63179592"></rect>
+                    <rect id="Rectangle_1614" fill="#4A4A4A" x="0.465954545" y="27.3057143" width="1.88313636" height="7.63179592"></rect>
+                    <rect id="Rectangle_1615" fill="#4A4A4A" x="5.53504545" y="27.3057143" width="1.88313636" height="7.63179592"></rect>
+                    <rect id="Rectangle_1616" fill="#4A4A4A" x="15.9637727" y="27.3057143" width="1.88313636" height="7.63179592"></rect>
+                    <polygon id="Path_4533" fill="#4A4A4A" points="28.8358636 24.888449 0 24.888449 0 26.7054694 33.1144545 26.7054694 33.1144545 24.888449"></polygon>
+                    <rect id="Rectangle_1617" fill="#4A4A4A" x="0" y="35.5362041" width="33.1144545" height="1.81702041"></rect>
+                    <rect id="Rectangle_1618" fill="#4A4A4A" x="21.0328636" y="27.3057143" width="1.88313636" height="7.63179592"></rect>
+                    <rect id="Rectangle_1619" fill="#4A4A4A" x="25.6367727" y="27.3057143" width="1.88313636" height="7.63179592"></rect>
+                    <rect id="Rectangle_1620" fill="#4A4A4A" x="30.7058636" y="27.3057143" width="1.88313636" height="7.63179592"></rect>
+                    <rect id="Rectangle_1621" fill="#4A4A4A" x="10.8939091" y="27.3057143" width="1.88313636" height="7.63179592"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

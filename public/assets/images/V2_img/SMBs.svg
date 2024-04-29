@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-SMBs">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="SMBs" clip-path="url(#clip-SMBs)">
+    <g id="noun-bulding-4379357" transform="translate(0.541 6)">
+      <path id="Path_16298" data-name="Path 16298" d="M359.656,48.389V34.538L350.45,28V48.389Z" transform="translate(-335.985 -28)" fill="#24272c"/>
+      <path id="Path_16299" data-name="Path 16299" d="M141.51,36.443v-1.9l9.286-6.538v3.017Z" transform="translate(-136.331 -28.008)" fill="#24272c"/>
+      <path id="Path_16300" data-name="Path 16300" d="M141.51,143.492v2.165l9.286-3.713v-3.4Z" transform="translate(-136.331 -133.626)" fill="#24272c"/>
+      <path id="Path_16301" data-name="Path 16301" d="M141.51,256.824v2.168l9.286-1.9v-3.636Z" transform="translate(-136.331 -243.438)" fill="#24272c"/>
+      <path id="Path_16302" data-name="Path 16302" d="M141.51,371.811V373.9l9.286-.231v-3.559Z" transform="translate(-136.331 -354.904)" fill="#24272c"/>
+      <path id="Path_16303" data-name="Path 16303" d="M102.37,486.75h22.015v2.011H102.37Z" transform="translate(-98.931 -466.361)" fill="#24272c"/>
+    </g>
+  </g>
+</svg>

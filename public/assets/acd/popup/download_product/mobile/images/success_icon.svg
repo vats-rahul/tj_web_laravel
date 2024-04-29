@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <filter id="Oval_Copy_2" x="-5.844" y="-5.844" width="121.078" height="121.078" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#757575" flood-opacity="0.176"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-icon">
+      <rect width="110" height="110"/>
+    </clipPath>
+  </defs>
+  <g id="icon" clip-path="url(#clip-icon)">
+    <g id="thankyou_icon" transform="translate(-827.117 -86.117)">
+      <g id="circle" transform="translate(842.138 101.138)">
+        <g transform="matrix(1, 0, 0, 1, -15.02, -15.02)" filter="url(#Oval_Copy_2)">
+          <circle id="Oval_Copy_2-2" data-name="Oval Copy 2" cx="30.539" cy="30.539" r="30.539" transform="translate(24.16 24.16)" fill="#fff"/>
+        </g>
+        <circle id="Oval" cx="40" cy="40" r="40" transform="translate(-0.021 -0.021)" fill="none" stroke="#61bf23" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+      </g>
+      <g id="tick" transform="translate(868.68 130.734)">
+        <path id="Path" d="M26.188.478a1.623,1.623,0,0,0-2.3,0L8.535,15.862,2.775,10.09a1.628,1.628,0,1,0-2.3,2.3l6.91,6.924a1.623,1.623,0,0,0,2.3,0l16.5-16.536A1.633,1.633,0,0,0,26.188.478Z" transform="translate(0 0)" fill="#61bf23"/>
+        <path id="Path-2" data-name="Path" d="M13.659.473a1.665,1.665,0,0,0-2.325,0L0,11.6v4.564l13.659-13.4A1.594,1.594,0,0,0,13.659.473Z" transform="translate(12.524 0)" fill="#71de56"/>
+      </g>
+    </g>
+  </g>
+</svg>

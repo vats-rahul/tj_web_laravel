@@ -1,0 +1,29 @@
+<svg id="icon_blog_20" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #444;
+      }
+    </style>
+  </defs>
+  <g id="Artboard" transform="translate(-79 -855)">
+    <g id="outline-local_mall-24px" transform="translate(79 855)">
+      <path id="Path" class="cls-1" d="M0,0H20V20H0Z"/>
+      <g id="blogging" transform="translate(-38.766 1.403)">
+        <g id="Group_15420" data-name="Group 15420" transform="translate(41.564 0)">
+          <g id="Group_15419" data-name="Group 15419">
+            <path id="Path_17527" data-name="Path 17527" class="cls-2" d="M53.122,0H44.436c-.071,0-.143,0-.216.006a2.892,2.892,0,0,0-2.657,2.918v9.457a2.038,2.038,0,0,0,1.5,1.963v2.313a.537.537,0,0,0,.87.422l3.378-2.663h4.4a2.037,2.037,0,0,0,2.035-2.035V4.486H55.43a.537.537,0,0,0,.537-.537v-1.1A2.848,2.848,0,0,0,53.122,0ZM51.707,13.341H47.124a.538.538,0,0,0-.333.115L44.137,15.55V13.879a.537.537,0,0,0-.537-.537.962.962,0,0,1-.961-.96V2.924A1.815,1.815,0,0,1,44.29,1.078q.058,0,.115,0h.012a1.77,1.77,0,0,1,1.762,1.77v1.1a.537.537,0,0,0,.537.537h5.951v7.895h0A.961.961,0,0,1,51.707,13.341Zm3.185-9.93H47.254V2.845a2.858,2.858,0,0,0-.618-1.77h6.487a1.772,1.772,0,0,1,1.77,1.77v.567Z" transform="translate(-41.564 0)"/>
+            <path id="Path_17528" data-name="Path 17528" class="cls-2" d="M128.316,182H122a.4.4,0,1,0,0,.806h6.314a.4.4,0,1,0,0-.806Z" transform="translate(-118.911 -175.889)"/>
+            <path id="Path_17529" data-name="Path 17529" class="cls-2" d="M128.316,249H122a.4.4,0,1,0,0,.806h6.314a.4.4,0,1,0,0-.806Z" transform="translate(-118.911 -240.64)"/>
+            <path id="Path_17530" data-name="Path 17530" class="cls-2" d="M128.316,316H122a.4.4,0,0,0,0,.806h6.314a.4.4,0,1,0,0-.806Z" transform="translate(-118.911 -305.388)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

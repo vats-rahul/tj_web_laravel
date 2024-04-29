@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7f7f7;
+      }
+    </style>
+  </defs>
+  <g id="icon_drop_up" transform="translate(0 24) rotate(-90)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" class="cls-1" cx="12" cy="12" r="12" transform="translate(0 0)"/>
+    <path id="chevron_right_FILL0_wght600_GRAD200_opsz48" d="M.25.218A.7.7,0,0,0,.01.742a.648.648,0,0,0,.241.506L3.341,4.18.232,7.13A.639.639,0,0,0,0,7.653a.7.7,0,0,0,.25.524.684.684,0,0,0,.527.218.777.777,0,0,0,.527-.218l3.7-3.49a.918.918,0,0,0,.167-.218.575.575,0,0,0,.074-.288A.528.528,0,0,0,5.173,3.9a1.573,1.573,0,0,0-.167-.227L1.324.218A.7.7,0,0,0,.787,0,.788.788,0,0,0,.25.218Z" transform="translate(10.194 7.795)"/>
+  </g>
+</svg>

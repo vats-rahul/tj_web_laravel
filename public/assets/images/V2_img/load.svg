@@ -1,0 +1,17 @@
+<svg class="circle-chart"
+                                                                viewBox="0 0 33.83098862 33.83098862"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <circle class="circle-chart__background"
+                                                                    stroke="#f2f2f2" stroke-width="2.1" fill="none"
+                                                                    cx="16.91549431" cy="16.91549431" r="15.91549431">
+                                                                </circle>
+                                                                <circle class="circle-chart__circle" stroke="#3bae8c"
+                                                                    stroke-width="2.1" stroke-dasharray="61,100"
+                                                                    stroke-linecap="round" fill="none" cx="16.91549431"
+                                                                    cy="16.91549431" r="15.91549431"></circle>
+                                                                <g class="circle-chart__info"> <text
+                                                                        class="circle-chart__percent" x="16.91549431"
+                                                                        y="17.5" alignment-baseline="central"
+                                                                        text-anchor="middle" font-size="8">61%</text>
+                                                                </g>
+                                                            </svg>

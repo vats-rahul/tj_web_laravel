@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-medium_business">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="medium_business" clip-path="url(#clip-medium_business)">
+    <g id="sme" transform="translate(1.098 -41.187)">
+      <g id="Group_1961" data-name="Group 1961" transform="translate(0 46.366)">
+        <path id="Path_4214" data-name="Path 4214" d="M131.012,69.626h4.9v-5.2h2.946v5.2h4.9V46.366H131.012Zm7.269-20.519h2.946v3.054h-2.946Zm0,4.908h2.946v3.054h-2.946Zm0,4.908h2.946v3.054h-2.946Zm-4.735-9.816h2.946v3.054h-2.946Zm0,4.908h2.946v3.054h-2.946Zm0,4.908h2.946v3.054h-2.946Z" transform="translate(-123.513 -46.366)" fill="#24272c"/>
+        <path id="Path_4216" data-name="Path 4216" d="M0,102.732H4.462V97.986H6.355v-16.5H0ZM2.307,83.986H4.989v2.79H2.307Zm0,4.484H4.989v2.79H2.307Zm0,4.484H4.989v2.79H2.307Z" transform="translate(0 -79.472)" fill="#24272c"/>
+        <path id="Path_16182" data-name="Path 16182" d="M6.355,102.732H1.893V97.986H0v-16.5H6.355ZM4.048,83.986H1.366v2.79H4.048Zm0,4.484H1.366v2.79H4.048Zm0,4.484H1.366v2.79H4.048Z" transform="translate(21.393 -79.472)" fill="#24272c"/>
+      </g>
+    </g>
+  </g>
+</svg>

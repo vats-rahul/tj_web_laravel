@@ -1,0 +1,13 @@
+<svg id="stock" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <path id="Path_80" data-name="Path 80" d="M30,0A30,30,0,0,0,19.024,57.926L59.73,25.956A30.006,30.006,0,0,0,30,0Z" fill="#366796"/>
+  <path id="Path_81" data-name="Path 81" d="M122.287,69.565,102.852,50.152,71.884,91.886l9.657,9.646a30.02,30.02,0,0,0,40.745-31.967Z" transform="translate(-62.559 -43.604)" fill="#273b7a"/>
+  <path id="Path_82" data-name="Path 82" d="M151.976,200.152l-1.306,22.2H138.757l1.59-19.857,2.067-1.033Z" transform="translate(-120.663 -174.061)" fill="#5488a8"/>
+  <path id="Path_83" data-name="Path 83" d="M82.206,211.185v19.857H71.884V210.152H80.14Z" transform="translate(-62.51 -182.756)" fill="#61a2b3"/>
+  <path id="Path_84" data-name="Path 84" d="M139.248,207.657h-4.133v-6.2h2.067l1.033-1.306,1.033,1.306Z" transform="translate(-117.493 -174.049)" fill="#c2fbff"/>
+  <path id="Path_85" data-name="Path 85" d="M308.786,210.152v20.891H296.873l1.59-19.857,2.067-1.033Z" transform="translate(-258.16 -182.756)" fill="#e0a300"/>
+  <path id="Path_86" data-name="Path 86" d="M240.322,202.491v19.857H230v-22.2l8.256,1.306Z" transform="translate(-200.006 -174.061)" fill="#ffc61b"/>
+  <path id="Path_87" data-name="Path 87" d="M297.365,207.657h-4.133v-6.2l1.034-1.306,1.034,1.306h2.066Z" transform="translate(-254.987 -174.049)" fill="#ffedb5"/>
+  <path id="Path_88" data-name="Path 88" d="M229.734,50.152V71.043H217.821l1.59-19.857,2.067-1.033Z" transform="translate(-189.417 -43.604)" fill="#5488a8"/>
+  <path id="Path_89" data-name="Path 89" d="M161.27,51.185V71.043H150.948V50.152H159.2Z" transform="translate(-131.263 -43.604)" fill="#61a2b3"/>
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="4.133" height="6.199" transform="translate(27.934 6.548)" fill="#c2fbff"/>
+</svg>

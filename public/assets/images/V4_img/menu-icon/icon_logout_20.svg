@@ -1,0 +1,20 @@
+<svg id="icon_logout_20" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #444;
+      }
+    </style>
+  </defs>
+  <g id="Artboard" transform="translate(-79 -743)">
+    <g id="outline-place-24px" transform="translate(79 743)">
+      <path id="Path" class="cls-1" d="M0,0H20V20H0Z"/>
+      <path id="logout" class="cls-2" d="M9.56,43.126a1.1,1.1,0,0,0-.009,1.552,7.7,7.7,0,1,0,0-10.823A1.1,1.1,0,1,0,11.112,35.4a5.5,5.5,0,1,1,0,7.737A1.1,1.1,0,0,0,9.56,43.126Zm-4.7-4.636,2.155-2.155A1.1,1.1,0,0,1,8.57,37.888l-.281.281h5.735a1.1,1.1,0,0,1,0,2.195H8.289l.281.281A1.1,1.1,0,1,1,7.018,42.2L4.863,40.043A1.1,1.1,0,0,1,4.863,38.491Z" transform="translate(-3.673 -28.837)"/>
+    </g>
+  </g>
+</svg>

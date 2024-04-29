@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11457" data-name="Rectangle 11457" class="cls-1" width="14" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="icon_cloud" class="cls-2">
+    <g id="cloud" transform="translate(0 2.786)">
+      <path id="Path_16835" data-name="Path 16835" class="cls-1" d="M12.013,6.656a2.485,2.485,0,0,0-3.76-1.731A3.311,3.311,0,0,0,2.1,6.627c0,.011,0,.023,0,.034A2.484,2.484,0,0,0,2.513,11.6h9.115a2.484,2.484,0,0,0,.385-4.942Z" transform="translate(0 -3.313)"/>
+    </g>
+  </g>
+</svg>

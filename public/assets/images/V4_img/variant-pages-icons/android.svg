@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11450" data-name="Rectangle 11450" class="cls-1" width="14" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="icon_android" class="cls-2">
+    <path id="android" class="cls-1" d="M10.535,9.567a.6.6,0,1,1,.6-.6.6.6,0,0,1-.6.6m-6.641,0a.6.6,0,1,1,.6-.6.6.6,0,0,1-.6.6m6.857-3.619,1.2-2.08a.25.25,0,0,0-.433-.25h0L10.3,5.724a7.55,7.55,0,0,0-6.177,0L2.911,3.618a.25.25,0,1,0-.433.25h0l1.2,2.08A7.091,7.091,0,0,0,0,11.623h14.43a7.089,7.089,0,0,0-3.678-5.676" transform="translate(0 -0.773)"/>
+  </g>
+</svg>

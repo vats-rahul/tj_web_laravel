@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-enterprise">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="enterprise" clip-path="url(#clip-enterprise)">
+    <path id="mid_market" d="M19.545,24.026V22.451a1.771,1.771,0,1,0-1.5,0v1.576a3.267,3.267,0,1,1,1.492-6.362V5.1H14.177V24.039h-1.5V2.13H11.465V0H1.215V2.13H0V25.544l22.035-.008v-1.5h-2.49v-.013Zm-1.933-8.269h-1.5V13.628h1.5Zm0-4.257h-1.5V9.371h1.5ZM8.947,13.629v2.129H7.45V13.629ZM7.45,11.5V9.371h1.5V11.5Zm1.5,6.386v2.129H7.45V17.886Zm0-10.643H7.45V5.114h1.5ZM3.725,5.114h1.5V7.243h-1.5Zm0,4.257h1.5V11.5h-1.5Zm0,4.257h1.5v2.129h-1.5Zm0,4.257h1.5v2.129h-1.5Zm0,0" transform="translate(5 3.31)" fill="#24272c"/>
+  </g>
+</svg>

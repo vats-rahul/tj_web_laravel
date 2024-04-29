@@ -1,0 +1,20 @@
+<svg id="icon_my_order_20" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #444;
+      }
+    </style>
+  </defs>
+  <g id="Artboard" transform="translate(-79 -519)">
+    <g id="outline-shopping_cart-24px" transform="translate(79 519)">
+      <path id="Path" class="cls-1" d="M0,0H20V20H0Z"/>
+      <path id="Shape" class="cls-2" d="M12.958,10.833a1.659,1.659,0,0,0,1.458-.858L17.4,4.567a.83.83,0,0,0-.725-1.233H4.342L3.558,1.667H.833V3.333H2.5l3,6.325L4.375,11.692a1.67,1.67,0,0,0,1.458,2.475h10V12.5h-10l.917-1.667ZM5.133,5H15.258l-2.3,4.167H7.108Zm.7,10A1.667,1.667,0,1,0,7.5,16.667,1.664,1.664,0,0,0,5.833,15Zm8.333,0a1.667,1.667,0,1,0,1.667,1.667A1.664,1.664,0,0,0,14.167,15Z"/>
+    </g>
+  </g>
+</svg>

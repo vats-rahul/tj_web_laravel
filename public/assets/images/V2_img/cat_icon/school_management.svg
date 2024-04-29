@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="30" cy="30" r="30" transform="translate(-572 -1656)" fill="#de4726"/>
+    </clipPath>
+  </defs>
+  <g id="school_management" transform="translate(572 1656)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="30" cy="30" r="30" transform="translate(-572 -1656)" fill="#6dd7a7"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <path id="Path_20" data-name="Path 20" d="M-556.07-1608.064l20.158,22.272,34.038-25.588-29.347-29.786-16.131,12.072C-550.884-1625.679-556.07-1608.064-556.07-1608.064Z" transform="translate(-0.117 -1.589)" fill="#00c379"/>
+    </g>
+    <g id="Group_12980" data-name="Group 12980" transform="translate(22416 20472)">
+      <path id="Rectangle_11086" data-name="Rectangle 11086" d="M3,0H27a0,0,0,0,1,0,0V33a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V3A3,3,0,0,1,3,0Z" transform="translate(-22973 -22115)" fill="#c32430"/>
+      <rect id="Rectangle_11087" data-name="Rectangle 11087" width="24" height="26" transform="translate(-22970 -22115)" fill="#da4a54"/>
+      <g id="Rectangle_11088" data-name="Rectangle 11088" transform="translate(-22967 -22107)" fill="#dfeaef" stroke="#c32430" stroke-width="1">
+        <rect width="17" height="11" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="10" rx="1.5" fill="none"/>
+      </g>
+      <g id="Group_12980-2" data-name="Group 12980" transform="translate(-22963 -22103.348)">
+        <g id="Rectangle_11089" data-name="Rectangle 11089" transform="translate(0 -0.152)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="9" height="1" rx="0.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" fill="none"/>
+        </g>
+        <g id="Rectangle_11090" data-name="Rectangle 11090" transform="translate(0 2.5)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="9" height="1" rx="0.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="8" fill="none"/>
+        </g>
+      </g>
+      <path id="Rectangle_11091" data-name="Rectangle 11091" d="M1.5,0H25a0,0,0,0,1,0,0V3a0,0,0,0,1,0,0H1.5A1.5,1.5,0,0,1,0,1.5v0A1.5,1.5,0,0,1,1.5,0Z" transform="translate(-22971 -22087)" fill="#dfeaef"/>
+      <path id="Path_16214" data-name="Path 16214" d="M0,0H4.5V6L2.25,4.286,0,6Z" transform="translate(-22967 -22115)" fill="#ffb806"/>
+    </g>
+  </g>
+</svg>

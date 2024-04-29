@@ -1,0 +1,17 @@
+<svg id="new_address_icon" xmlns="http://www.w3.org/2000/svg" width="81" height="81" viewBox="0 0 81 81">
+  <g id="Group_1953" data-name="Group 1953">
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="40.5" cy="40.5" r="40.5" fill="#f4f6fd"/>
+    <g id="address" transform="translate(16.19 16.105)">
+      <path id="Path_3593" data-name="Path 3593" d="M40.166,302H8.309L0,322.075H48.57Zm0,0" transform="translate(0.001 -273.504)" fill="#9ed0ff"/>
+      <path id="Path_3594" data-name="Path 3594" d="M280.472,322.075H256V302h16Zm0,0" transform="translate(-231.901 -273.504)" fill="#73bcff"/>
+      <path id="Path_3595" data-name="Path 3595" d="M78.963,332H50.911L45,346.339H84.873Zm0,0" transform="translate(-40.699 -300.636)" fill="#3aaaff"/>
+      <path id="Path_3596" data-name="Path 3596" d="M276.075,346.339H256V332h14.11Zm0,0" transform="translate(-231.901 -300.636)" fill="#0095ff"/>
+      <path id="Path_3597" data-name="Path 3597" d="M133.719,0A12.915,12.915,0,0,0,121,13a13.454,13.454,0,0,0,1.95,6.978L133.719,37.3l10.769-17.322A13.454,13.454,0,0,0,146.437,13,12.915,12.915,0,0,0,133.719,0Zm0,20.266A7.268,7.268,0,1,1,140.785,13,7.2,7.2,0,0,1,133.719,20.266Zm0,0" transform="translate(-109.433 0)" fill="#ff9f00"/>
+      <path id="Path_3598" data-name="Path 3598" d="M157.037,315.141l2.845.355L157.732,332.7l-2.845-.355Zm0,0" transform="translate(-140.206 -285.388)" fill="#9ed0ff"/>
+      <path id="Path_3599" data-name="Path 3599" d="M306.4,332.668l-2.206-17.207,2.846-.364,2.205,17.207Zm0,0" transform="translate(-275.36 -285.349)" fill="#73bcff"/>
+      <path id="Path_3600" data-name="Path 3600" d="M67.5,392h35.57v2.868H67.5Zm0,0" transform="translate(-61.047 -354.83)" fill="#9ed0ff"/>
+      <path id="Path_3601" data-name="Path 3601" d="M268.905,13a13.309,13.309,0,0,1-1.979,6.978L256,37.3V20.266a7.266,7.266,0,0,0,0-14.53V0a13.007,13.007,0,0,1,12.905,13Zm0,0" transform="translate(-231.781)" fill="#ff7816"/>
+      <path id="Path_3602" data-name="Path 3602" d="M256,392h17.924v2.868H256Zm0,0" transform="translate(-231.901 -354.83)" fill="#73bcff"/>
+    </g>
+  </g>
+</svg>

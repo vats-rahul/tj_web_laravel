@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="59" viewBox="0 0 59 59">
+  <g id="more" transform="translate(0 0.57)">
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="29.5" cy="29.5" r="29.5" transform="translate(0 -0.57)" fill="#82a7f8"/>
+    <path id="Path_115" data-name="Path 115" d="M146.492,150.434c0-.853-.036-1.7-.1-2.532l-12.725-9.316H105.019l-3.178,5.379L105.8,147.9l-3.961,6.088,3.178,4.028h-1.775l-1.4,5.751,12.734,16.71c.815.069,1.64.107,2.473.107C133.309,180.587,146.492,167.087,146.492,150.434Z" transform="translate(-87.841 -122.157)" fill="#5a88ed"/>
+    <g id="Group_41" data-name="Group 41" transform="translate(2.659 1.025)">
+      <g id="Group_35" data-name="Group 35" transform="translate(11.341 15.405)">
+        <path id="Path_116" data-name="Path 116" d="M172.594,136.41v5.611h24.441V136.41Z" transform="translate(-165.112 -136.41)" fill="#fff"/>
+        <path id="Path_117" data-name="Path 117" d="M99,136.41v5.611h5.611V136.41Z" transform="translate(-99 -136.41)" fill="#fff"/>
+      </g>
+      <g id="Group_36" data-name="Group 36" transform="translate(11.341 18.211)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="5.612" height="2.806" fill="#fff"/>
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="24.442" height="2.806" transform="translate(7.482)" fill="#fff"/>
+      </g>
+      <g id="Group_37" data-name="Group 37" transform="translate(11.341 24.757)">
+        <path id="Path_118" data-name="Path 118" d="M172.594,228.4v5.611h24.441V228.4Z" transform="translate(-165.112 -228.402)" fill="#fff"/>
+        <path id="Path_119" data-name="Path 119" d="M99,228.4v5.611h5.611V228.4Z" transform="translate(-99 -228.402)" fill="#fff"/>
+      </g>
+      <g id="Group_38" data-name="Group 38" transform="translate(11.341 27.563)">
+        <rect id="Rectangle_4" data-name="Rectangle 4" width="5.612" height="2.806" fill="#fff"/>
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="24.442" height="2.806" transform="translate(7.482)" fill="#fff"/>
+      </g>
+      <g id="Group_39" data-name="Group 39" transform="translate(11.341 34.11)">
+        <path id="Path_120" data-name="Path 120" d="M172.594,320.395v5.612h24.441v-5.612Z" transform="translate(-165.112 -320.395)" fill="#fff"/>
+        <path id="Path_121" data-name="Path 121" d="M99,320.395v5.612h5.611v-5.612Z" transform="translate(-99 -320.395)" fill="#fff"/>
+      </g>
+      <g id="Group_40" data-name="Group 40" transform="translate(11.341 36.915)">
+        <rect id="Rectangle_6" data-name="Rectangle 6" width="5.612" height="2.806" fill="#fff"/>
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="24.442" height="2.806" transform="translate(7.482)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

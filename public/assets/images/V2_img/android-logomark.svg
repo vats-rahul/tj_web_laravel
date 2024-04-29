@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="android-logomark" transform="translate(-34.037 -55.552)">
+    <rect id="Rectangle_11151" data-name="Rectangle 11151" width="16" height="16" transform="translate(34.037 55.552)" fill="none"/>
+    <path id="Path_16302" data-name="Path 16302" d="M43.861,61.217l1.225-2.12a.255.255,0,1,0-.44-.256l-1.24,2.145a7.674,7.674,0,0,0-6.294,0l-1.24-2.145a.255.255,0,1,0-.44.256l1.225,2.12A7.208,7.208,0,0,0,32.9,67H47.6A7.234,7.234,0,0,0,43.861,61.217ZM36.871,64.9a.611.611,0,1,1,.611-.611A.611.611,0,0,1,36.871,64.9Zm6.77,0a.611.611,0,1,1,.611-.611A.611.611,0,0,1,43.64,64.9Z" transform="translate(1.656 0.933)" fill="#777"/>
+  </g>
+</svg>

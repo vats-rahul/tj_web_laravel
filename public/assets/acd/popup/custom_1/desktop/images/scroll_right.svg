@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <filter id="Rectangle_10842" x="0" y="0" width="33" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Scroll_Right" data-name="Scroll Right" transform="translate(-1109.5 -318.5)">
+    <g transform="matrix(1, 0, 0, 1, 1109.5, 318.5)" filter="url(#Rectangle_10842)">
+      <rect id="Rectangle_10842-2" data-name="Rectangle 10842" width="24" height="24" rx="4" transform="translate(4.5 3.5)" fill="#fff"/>
+    </g>
+    <path id="angle-small-right" d="M15.4,9.182,10.81,5.248a1.122,1.122,0,0,0-1.41,0,.774.774,0,0,0,0,1.217L14,10.391a.774.774,0,0,1,0,1.217L9.4,15.533a.774.774,0,0,0-.005,1.213,1.122,1.122,0,0,0,1.415,0l4.59-3.934A2.32,2.32,0,0,0,15.4,9.182Z" transform="translate(1113.309 323.001)" fill="#472dc2"/>
+  </g>
+</svg>

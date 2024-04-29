@@ -1,0 +1,10 @@
+<svg id="cross" xmlns="http://www.w3.org/2000/svg" width="24" height="23.999" viewBox="0 0 24 23.999">
+  <g id="Group_11057" data-name="Group 11057">
+    <circle id="Ellipse_48" data-name="Ellipse 48" cx="8.5" cy="8.5" r="8.5" transform="translate(3.513 3.068)" fill="#d1d1d6"/>
+    <g id="cancel">
+      <g id="Group_11066" data-name="Group 11066">
+        <path id="Path_16121" data-name="Path 16121" d="M20.489,3.516a12,12,0,1,0,0,16.979A12.019,12.019,0,0,0,20.489,3.516ZM16.952,15.542a1,1,0,1,1-1.415,1.415L12,13.419,8.465,16.956A1,1,0,0,1,7.05,15.541L10.586,12,7.049,8.468A1,1,0,0,1,8.464,7.053L12,10.59l3.537-3.537a1,1,0,0,1,1.415,1.415L13.415,12Z" transform="translate(0 -0.005)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

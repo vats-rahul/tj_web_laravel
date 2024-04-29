@@ -1,0 +1,14 @@
+<svg id="hardware" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Rectangle_2_Copy" data-name="Rectangle 2 Copy" width="40" height="40" rx="4" transform="translate(0 0)" fill="#f6f7f9"/>
+  <g id="Group_13020" data-name="Group 13020" transform="translate(-96.802 -122.171)">
+    <g id="keyboard" transform="translate(106.884 135.374)">
+      <path id="Path_16291" data-name="Path 16291" d="M16,5.177H10.95V3.842a.842.842,0,1,0-1.685,0V5.177H4.211A4.216,4.216,0,0,0,0,9.388v3.369a4.216,4.216,0,0,0,4.211,4.211H16a4.216,4.216,0,0,0,4.211-4.211V9.388A4.216,4.216,0,0,0,16,5.177Zm2.527,7.581A2.527,2.527,0,0,1,16,15.284H4.211a2.527,2.527,0,0,1-2.527-2.527V9.388A2.527,2.527,0,0,1,4.211,6.862H16A2.527,2.527,0,0,1,18.53,9.388Z" transform="translate(0 -3)" fill="#d45a6f"/>
+      <path id="Path_16292" data-name="Path 16292" d="M13.9,14H8.842a.842.842,0,0,0,0,1.685H13.9A.842.842,0,0,0,13.9,14Z" transform="translate(-1.262 -5.085)" fill="#d45a6f"/>
+      <path id="Path_16293" data-name="Path 16293" d="M9.842,11.685h.842a.842.842,0,1,0,0-1.685H9.842a.842.842,0,1,0,0,1.685Z" transform="translate(-1.419 -4.454)" fill="#d45a6f"/>
+      <path id="Path_16294" data-name="Path 16294" d="M18.211,10H14.842a.842.842,0,1,0,0,1.685h3.369a.842.842,0,0,0,0-1.685Z" transform="translate(-2.208 -4.454)" fill="#d45a6f"/>
+      <path id="Path_16295" data-name="Path 16295" d="M5.685,10H4.842a.842.842,0,1,0,0,1.685h.842a.842.842,0,1,0,0-1.685Z" transform="translate(-0.631 -4.454)" fill="#d45a6f"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="0.596" cy="0.596" r="0.596" transform="translate(3.978 9.201)" fill="#d45a6f"/>
+      <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="1.192" cy="0.596" rx="1.192" ry="0.596" transform="translate(14.707 9.201)" fill="#d45a6f"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="30" cy="30" r="30" transform="translate(-572 -1656)" fill="#de4726"/>
+    </clipPath>
+  </defs>
+  <g id="marketing_automation" transform="translate(572 1656)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="30" cy="30" r="30" transform="translate(-572 -1656)" fill="#80dbff"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <path id="Path_20" data-name="Path 20" d="M-555.873-1609.959l19.961,24.167,34.038-25.588-30.067-27.858-8.047,8.924c-.982.949-8.182-6.582-8.186-6.422C-552.442-1631.126-555.873-1609.959-555.873-1609.959Z" transform="translate(1.883 -1.589)" fill="#4ab8f7"/>
+    </g>
+    <g id="Group_12984" data-name="Group 12984" transform="translate(22120.947 20530.514)">
+      <circle id="Ellipse_91" data-name="Ellipse 91" cx="19.067" cy="19.067" r="19.067" transform="translate(-22680.873 -22174.928)" fill="#ff6c6c"/>
+      <circle id="Ellipse_92" data-name="Ellipse 92" cx="12.711" cy="12.711" r="12.711" transform="translate(-22674.516 -22168.572)" fill="#f0f7ff"/>
+      <circle id="Ellipse_93" data-name="Ellipse 93" cx="5.296" cy="5.296" r="5.296" transform="translate(-22667.102 -22161.156)" fill="#ff6c6c"/>
+      <path id="Path_16220" data-name="Path 16220" d="M18,0a19.067,19.067,0,0,1,0,38.134C17.924,37.8,18.127.017,18,0Z" transform="translate(-22679.807 -22174.928)" fill="#e63950"/>
+      <path id="Path_16221" data-name="Path 16221" d="M18,0a12.717,12.717,0,1,1,0,25.434C17.944,25.215,18.079.011,18,0Z" transform="translate(-22679.807 -22168.572)" fill="#dfe7f4"/>
+      <path id="Path_16222" data-name="Path 16222" d="M17.988,0a5.309,5.309,0,0,1,0,10.618C17.967,10.527,18.023,0,17.988,0Z" transform="translate(-22679.807 -22161.156)" fill="#e63950"/>
+      <path id="Path_16223" data-name="Path 16223" d="M-22720.229-22171.047l-4.2,1.818s-1.643.352,0,1.945,5.682,5.592,5.682,5.592l7.227-1.074.738-7.3-6.043-5.93s-1.516-.807-1.922.586S-22720.229-22171.047-22720.229-22171.047Z" transform="translate(42)" fill="#29376d"/>
+      <rect id="Rectangle_11100" data-name="Rectangle 11100" width="3.178" height="23.304" rx="1.589" transform="translate(-22678.582 -22169.551) rotate(-45)" fill="#47568c"/>
+    </g>
+  </g>
+</svg>

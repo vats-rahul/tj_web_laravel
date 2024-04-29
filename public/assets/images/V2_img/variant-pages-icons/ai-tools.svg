@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8173e0"/>
+      <stop offset="1" stop-color="#51459f"/>
+    </linearGradient>
+    <clipPath id="clip-icon_pdp_ai">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="icon_pdp_ai" clip-path="url(#clip-icon_pdp_ai)">
+    <g id="artificial-intelligence" transform="translate(0.59 0.59)">
+      <path id="Path_16353" data-name="Path 16353" d="M211,226h1.337v1.337H211Z" transform="translate(-201.596 -215.927)" fill="url(#linear-gradient)"/>
+      <path id="Path_16354" data-name="Path 16354" d="M22.82,12.079V10.742H18.1V9.4h3.387V8.067H18.1V5.393H14.753V1.337H13.416V5.393H12.079V0H10.742V5.393H9.4V1.337H8.067V5.393H4.725V8.067H1.337V9.4H4.725v1.337H0v1.337H4.725v1.337H1.337v1.337H4.725v2.674H8.067v4.056H9.4V17.427h1.337V22.82h1.337V17.427h1.337v4.056h1.337V17.427H18.1V14.753h3.387V13.416H18.1V12.079ZM14.753,8.736v5.349H13.416V8.736ZM9.4,12.747v1.337H8.067V8.736h4.011v5.349H10.742V12.747Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

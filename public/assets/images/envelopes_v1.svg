@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.002" height="9.626" viewBox="0 0 14.002 9.626">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#65676b}
+        </style>
+    </defs>
+    <g id="prefix__envelopes" transform="translate(0 -80)">
+        <g id="prefix__Group_2005" data-name="Group 2005" transform="translate(9.282 81.775)">
+            <g id="prefix__Group_2004" data-name="Group 2004">
+                <path id="prefix__Path_3616" d="M339.392 148.006l4.72 2.984v-6.09z" class="prefix__cls-1" data-name="Path 3616" transform="translate(-339.392 -144.896)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_2007" data-name="Group 2007" transform="translate(0 81.775)">
+            <g id="prefix__Group_2006" data-name="Group 2006">
+                <path id="prefix__Path_3617" d="M0 144.9v6.094l4.72-2.984z" class="prefix__cls-1" data-name="Path 3617" transform="translate(0 -144.896)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_2009" data-name="Group 2009" transform="translate(.026 80)">
+            <g id="prefix__Group_2008" data-name="Group 2008">
+                <path id="prefix__Path_3618" d="M14.061 80H1.809a.864.864 0 0 0-.849.745l6.975 4.6 6.975-4.6a.864.864 0 0 0-.849-.745z" class="prefix__cls-1" data-name="Path 3618" transform="translate(-.96 -80)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_2011" data-name="Group 2011" transform="translate(.028 85.413)">
+            <g id="prefix__Group_2010" data-name="Group 2010">
+                <path id="prefix__Path_3619" d="M9.476 277.921l-1.238.816a.439.439 0 0 1-.481 0l-1.238-.816-5.495 3.479a.863.863 0 0 0 .847.739h12.252a.863.863 0 0 0 .847-.739z" class="prefix__cls-1" data-name="Path 3619" transform="translate(-1.024 -277.92)"/>
+            </g>
+        </g>
+    </g>
+</svg>

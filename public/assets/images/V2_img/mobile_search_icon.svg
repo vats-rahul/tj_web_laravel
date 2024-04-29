@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="mobile_search_icon" opacity="0.5">
+    <rect id="Rectangle_196" data-name="Rectangle 196" width="20" height="20" fill="none"/>
+    <g id="Group_91" data-name="Group 91" transform="translate(2.623 2.623)">
+      <g id="search">
+        <path id="Shape" d="M14.013,14.754a.307.307,0,0,1-.218-.09L9.509,10.378a5.853,5.853,0,1,1,.87-.87l4.286,4.286a.308.308,0,0,1,0,.434l-.435.435A.3.3,0,0,1,14.013,14.754ZM5.84,1.229A4.611,4.611,0,1,0,10.452,5.84,4.616,4.616,0,0,0,5.84,1.229Z" fill="#24272c" stroke="#24272c" stroke-miterlimit="10" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

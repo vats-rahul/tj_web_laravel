@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-SMEs_">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="SMEs_" data-name="SMEs " clip-path="url(#clip-SMEs_)">
+    <g id="noun-bulding-4379344_1_" data-name="noun-bulding-4379344 (1)" transform="translate(-3.98 4)">
+      <path id="Path_16222" data-name="Path 16222" d="M167.881,62.387V44.576L157.147,38.41l-6.163,4.9V48l-2.558,1.429V62.387h-.64v.686H168.43v-.686Zm-1.049-15.253.858.366V60.881h-.858Zm-1.429-.64,1.1.412V60.881h-1.086Zm-1.4-.572.995.377V60.877h-.983Zm-1.5-.546,1.186.409v15.1h-1.175Zm-1.178-.514.892.377V60.88h-.88Zm-10-1.369,5.5-4.408V62.032h-.412V40.66l-5.071,3.7Zm-1.561,5.7,3.027-1.85,2.487.786V49.77l-2.487-.649-3.027,1.472Zm0,3.687,3.027-1.429,2.487.683v1.555l-2.487-.423L149.761,54.5Zm0,4.053,3.027-1.063,2.487.286v1.541l-2.487.206-3.027.606Zm0,3.95,5.514-.835v2h-5.514Z" transform="translate(-139.441 -38.41)" fill="#24272c"/>
+    </g>
+  </g>
+</svg>

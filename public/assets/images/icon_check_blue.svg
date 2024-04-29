@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1973e7;
+      }
+    </style>
+  </defs>
+  <path id="icon_check_blue" class="cls-1" d="M6,0a6,6,0,1,0,6,6A6.007,6.007,0,0,0,6,0ZM5.955,7.71a.991.991,0,0,1-.7.29,1,1,0,0,1-.708-.293L3.152,6.359l.7-.719,1.4,1.354,2.9-2.851.7.712L5.955,7.71Z"/>
+</svg>

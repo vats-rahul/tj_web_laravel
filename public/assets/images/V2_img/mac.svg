@@ -1,0 +1,10 @@
+<svg id="apple" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.411" height="23.84" viewBox="0 0 19.411 23.84">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8173e0"/>
+      <stop offset="1" stop-color="#51459f"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_4201" data-name="Path 4201" d="M17.495,10.246a5.392,5.392,0,0,1,2.574-4.539,5.564,5.564,0,0,0-4.36-2.36c-1.853-.19-3.62,1.092-4.564,1.092S8.751,3.373,7.212,3.4A5.84,5.84,0,0,0,2.28,6.389C.178,10.037,1.741,15.44,3.79,18.4c1,1.448,2.2,3.073,3.764,3.016,1.51-.06,2.08-.978,3.905-.978s2.339.978,3.935.948c1.625-.031,2.653-1.477,3.646-2.928a13.266,13.266,0,0,0,1.653-3.391A5.275,5.275,0,0,1,17.495,10.246Z" transform="translate(-1.282 2.42)" fill="url(#linear-gradient)"/>
+  <path id="Path_4202" data-name="Path 4202" d="M10.431,3.807A5.253,5.253,0,0,0,11.671,0,5.337,5.337,0,0,0,8.16,1.805,5,5,0,0,0,6.9,5.493,4.42,4.42,0,0,0,10.431,3.807Z" transform="translate(2.779)" fill="url(#linear-gradient)"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_39" data-name="Rectangle 39" width="24" height="24" transform="translate(492 12)" fill="#24272c"/>
+    </clipPath>
+  </defs>
+  <g id="webinar" transform="translate(-489 -9)">
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="30" height="30" transform="translate(489 9)" fill="none"/>
+    <g id="Mask_Group_11" data-name="Mask Group 11" clip-path="url(#clip-path)">
+      <path id="live_tv_FILL1_wght400_GRAD0_opsz24" d="M11.4,18.6l8.4-5.4L11.4,7.8ZM9.6,25.2V22.8H4.8a2.31,2.31,0,0,1-1.694-.7A2.312,2.312,0,0,1,2.4,20.4V6a2.312,2.312,0,0,1,.706-1.7A2.31,2.31,0,0,1,4.8,3.6H24A2.4,2.4,0,0,1,26.4,6V20.4A2.4,2.4,0,0,1,24,22.8H19.2v2.4Z" transform="translate(489.6 9.6)" fill="#24272c"/>
+    </g>
+  </g>
+</svg>

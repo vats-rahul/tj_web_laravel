@@ -1,0 +1,11 @@
+<svg id="hotel_management" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <path id="Path_71" data-name="Path 71" d="M60,30A30,30,0,1,1,30,0,30,30,0,0,1,60,30Zm0,0" fill="#ff7045"/>
+  <path id="Path_72" data-name="Path 72" d="M138.274,111.208c0-.416-.011-.829-.027-1.241l-17.98-17.98-12.7,1.5-.726,6.825,6.691,16.772,5.847,5.847-1.751.426L94.191,99.92,88.664,129.1l10.792,10.792a30.021,30.021,0,0,0,38.818-28.682Zm0,0" transform="translate(-78.274 -81.208)" fill="#de4726"/>
+  <path id="Path_73" data-name="Path 73" d="M123.91,314.168h30.5v5.625h-30.5Zm0,0" transform="translate(-109.389 -277.351)" fill="#dce1eb"/>
+  <path id="Path_74" data-name="Path 74" d="M255.906,314.168h15.028v5.625H255.906Zm0,0" transform="translate(-225.917 -277.351)" fill="#cdd2e1"/>
+  <path id="Path_75" data-name="Path 75" d="M88.664,159.676h5.527v29.178H88.664Zm0,0" transform="translate(-78.274 -140.964)" fill="#fff"/>
+  <path id="Path_76" data-name="Path 76" d="M384.148,250h5.527v18.593h-5.527Zm0,0" transform="translate(-339.131 -220.703)" fill="#e9edf5"/>
+  <path id="Path_77" data-name="Path 77" d="M135.828,262h10.645v6.113H135.828Zm0,0" transform="translate(-119.911 -231.297)" fill="#e9edf5"/>
+  <path id="Path_78" data-name="Path 78" d="M227.412,69a9.755,9.755,0,0,0-9.755,9.755c0,5.388,9.755,18.038,9.755,18.038s9.755-12.65,9.755-18.038A9.755,9.755,0,0,0,227.412,69Zm0,15.181a5.493,5.493,0,1,1,5.493-5.493A5.493,5.493,0,0,1,227.412,84.181Zm0,0" transform="translate(-192.15 -60.914)" fill="#ffce00"/>
+  <path id="Path_79" data-name="Path 79" d="M300.589,96.793s9.755-12.65,9.755-18.038A9.755,9.755,0,0,0,300.589,69h-.042v4.2h.042a5.493,5.493,0,0,1,0,10.986h-.042Zm0,0" transform="translate(-265.327 -60.914)" fill="#fc9e15"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="30" cy="30" r="30" transform="translate(-572 -1656)" fill="#de4726"/>
+    </clipPath>
+  </defs>
+  <g id="Restaurant_Billing_Software" data-name="Restaurant Billing Software" transform="translate(572 1656)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="30" cy="30" r="30" transform="translate(-572 -1656)" fill="#8078be"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <path id="Path_20" data-name="Path 20" d="M-554.115-1606.512l18.2,20.72,34.038-25.588-29.427-29.9-8.687,10.969c-.982.949-8.182-6.582-8.186-6.422C-552.442-1631.126-554.115-1606.512-554.115-1606.512Z" transform="translate(1.883 -1.589)" fill="#514899"/>
+    </g>
+    <g id="Group_12986" data-name="Group 12986" transform="translate(22095.137 20529.098)">
+      <rect id="Rectangle_11094" data-name="Rectangle 11094" width="28" height="32" rx="4" transform="translate(-22651.137 -22173.1)" fill="#f2d8c7"/>
+      <rect id="Rectangle_11095" data-name="Rectangle 11095" width="16" height="32" rx="4" transform="translate(-22639.137 -22173.1)" fill="#e5bba3"/>
+      <rect id="Rectangle_11098" data-name="Rectangle 11098" width="22" height="32" rx="3" transform="translate(-22648.137 -22170.098)" fill="#f5f0eb"/>
+      <path id="Rectangle_11099" data-name="Rectangle 11099" d="M0,0H9a3,3,0,0,1,3,3V29a3,3,0,0,1-3,3H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(-22638.137 -22170.098)" fill="#f2d8c7"/>
+      <g id="Group_12983" data-name="Group 12983" transform="translate(-2)">
+        <path id="Rectangle_11096" data-name="Rectangle 11096" d="M0,0H10a0,0,0,0,1,0,0V7A2,2,0,0,1,8,9H2A2,2,0,0,1,0,7V0A0,0,0,0,1,0,0Z" transform="translate(-22641.137 -22173.1)" fill="#ffc44d"/>
+        <path id="Rectangle_11097" data-name="Rectangle 11097" d="M0,0H4.625a0,0,0,0,1,0,0V7a2,2,0,0,1-2,2H0A0,0,0,0,1,0,9V0A0,0,0,0,1,0,0Z" transform="translate(-22635.762 -22173.1)" fill="#ffa80d"/>
+      </g>
+      <g id="noun-rupee-3861019" transform="translate(-22641.137 -22156.938)">
+        <path id="Path_16219" data-name="Path 16219" d="M249.421,121.13v1.625c1,.05,3.553-.15,3.947,1.025h-3.947v1.45h4.132a2.476,2.476,0,0,1-1.947,1.35l-2.184.05-.026,1.45,4.579,5.05h2.368l-4.316-5.025a3.88,3.88,0,0,0,3.658-2.95l1.658.05V123.83h-1.789a2.236,2.236,0,0,0-.5-1.275h2.342V121.13Z" transform="translate(-249.395 -121.13)" fill="#333940" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <g id="search_icon" transform="translate(-12.625 -10)">
+    <rect id="Rectangle_196" data-name="Rectangle 196" class="cls-1" width="32" height="32" transform="translate(12.625 10)"/>
+    <g id="Group_91" data-name="Group 91" transform="translate(21.625 19)">
+      <g id="search">
+        <path id="Shape" class="cls-2" d="M13.3,14a.291.291,0,0,1-.206-.085L9.023,9.848a5.554,5.554,0,1,1,.825-.825l4.067,4.067a.293.293,0,0,1,0,.412l-.413.413A.289.289,0,0,1,13.3,14ZM5.541,1.166A4.375,4.375,0,1,0,9.917,5.541,4.38,4.38,0,0,0,5.541,1.166Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

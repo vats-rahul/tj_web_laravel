@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11189" data-name="Rectangle 11189" width="30" height="30" transform="translate(-477 769)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(477 -769)" clip-path="url(#clip-path)">
+    <g id="artificial-intelligence" transform="translate(-476.263 769.737)">
+      <path id="Path_16353" data-name="Path 16353" d="M211,226h1.671v1.671H211Z" transform="translate(-199.245 -213.409)" fill="#24272c"/>
+      <path id="Path_16354" data-name="Path 16354" d="M28.525,15.1V13.427h-5.9V11.75h4.234V10.084H22.625V6.741H18.441V1.671H16.77v5.07H15.1V0H13.427V6.741H11.75V1.671H10.084v5.07H5.906v3.343H1.671V11.75H5.906v1.671H0v1.671H5.906v1.671H1.671v1.671H5.906v3.342h4.178v5.07H11.75V21.784h1.671v6.741h1.671V21.784h1.671v5.07h1.671v-5.07h4.19V18.441h4.234V16.77H22.625V15.1ZM18.441,10.92v6.686H16.77V10.92ZM11.75,15.934V17.6H10.084V10.92H15.1v6.686h-1.67V15.934Z" fill="#24272c"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="99pycugpna">
+            <path data-name="Rectangle 11737" transform="translate(0 .154)" style="stroke:#707070;fill:#222" d="M0 0h24v24H0z"/>
+        </clipPath>
+        <clipPath id="g20jt9yzub">
+            <path data-name="Rectangle 11736" style="fill:#222" d="M0 0h24.142v15.498H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 17213" transform="translate(0 -.154)" style="clip-path:url(#99pycugpna)">
+        <g data-name="Group 17212" transform="translate(0 4.333)" style="clip-path:url(#g20jt9yzub)">
+            <path data-name="Path 17859" d="M16.786 13.919a.886.886 0 0 1-.637-.265 3.82 3.82 0 0 0-5.392 0 .9.9 0 1 1-1.273-1.273 5.62 5.62 0 0 1 7.938 0 .9.9 0 0 1-.636 1.539" transform="translate(-1.382 -1.611)" style="fill:#222"/>
+            <path data-name="Path 17860" d="M19.838 10.134a.893.893 0 0 1-.638-.265 9.062 9.062 0 0 0-12.8 0A.9.9 0 1 1 5.127 8.6a10.867 10.867 0 0 1 15.347 0 .9.9 0 0 1-.637 1.539" transform="translate(-.729 -.813)" style="fill:#222"/>
+            <path data-name="Path 17861" d="M23.242 6.421a.9.9 0 0 1-.638-.264 14.9 14.9 0 0 0-21.066 0 .9.9 0 0 1-1.274 0 .9.9 0 0 1 0-1.274 16.72 16.72 0 0 1 23.615 0 .9.9 0 0 1-.638 1.539" style="fill:#222"/>
+            <path data-name="Path 17862" d="M14.019 17.871a1.024 1.024 0 1 1 1.024-1.024 1.026 1.026 0 0 1-1.024 1.024" transform="translate(-1.948 -2.373)" style="fill:#222"/>
+        </g>
+    </g>
+</svg>

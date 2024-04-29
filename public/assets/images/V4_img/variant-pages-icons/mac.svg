@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11452" data-name="Rectangle 11452" class="cls-1" width="14" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="icon_mac" class="cls-2">
+    <g id="_Group_2" transform="translate(1.321 -0.169)">
+      <g id="_Group_3">
+        <path id="_Path_" class="cls-1" d="M11.12,7.976a3.219,3.219,0,0,1,1.533-2.7,3.3,3.3,0,0,0-2.6-1.4c-1.093-.115-2.152.654-2.709.654S5.923,3.882,5,3.9a3.46,3.46,0,0,0-2.91,1.775c-1.258,2.178-.32,5.381.886,7.142.6.863,1.308,1.825,2.23,1.792.9-.037,1.24-.576,2.329-.576s1.4.576,2.337.554c.968-.016,1.579-.866,2.161-1.737a7.123,7.123,0,0,0,.988-2.012A3.111,3.111,0,0,1,11.12,7.976Z" transform="translate(-1.491 -0.442)"/>
+        <path id="_Path_2" class="cls-1" d="M10.083,2.271A3.171,3.171,0,0,0,10.808,0,3.228,3.228,0,0,0,8.721,1.08a3.017,3.017,0,0,0-.744,2.187A2.669,2.669,0,0,0,10.083,2.271Z" transform="translate(-2.233)"/>
+      </g>
+    </g>
+  </g>
+</svg>

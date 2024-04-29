@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9f87fa"/>
+      <stop offset="0.96" stop-color="#8366f0"/>
+      <stop offset="1" stop-color="#3da2f8"/>
+    </linearGradient>
+    <filter id="Ellipse_1" x="0" y="0" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#ccc"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="options_icon" transform="translate(-509 -1848)">
+    <g transform="matrix(1, 0, 0, 1, 509, 1848)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="37" cy="37" r="37" transform="translate(18 14)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="list-check" d="M6.008,9.336A4.642,4.642,0,0,1,2.7,7.967L.668,6.159a2,2,0,0,1,2.67-2.99L5.452,5.056a.78.78,0,0,0,.555.275.667.667,0,0,0,.471-.195L11.3.544a2,2,0,0,1,2.761,2.9L9.276,8A4.6,4.6,0,0,1,6.008,9.336ZM32.039,4.663a2,2,0,0,0-2-2H19.357a2,2,0,0,0,0,4H30.036a2,2,0,0,0,2-2ZM9.276,18.68l4.787-4.557a2,2,0,0,0-2.761-2.9L6.479,15.815a.667.667,0,0,1-.944,0L3.419,13.7A2,2,0,1,0,.587,16.531L2.7,18.647A4.672,4.672,0,0,0,9.276,18.68Zm22.763-3.337a2,2,0,0,0-2-2H19.357a2,2,0,0,0,0,4H30.036A2,2,0,0,0,32.039,15.343ZM9.276,29.36,14.063,24.8A2,2,0,0,0,11.3,21.9L6.479,26.495a.667.667,0,0,1-.471.195.78.78,0,0,1-.555-.275L3.338,24.527a2,2,0,0,0-2.67,2.99L2.7,29.326A4.672,4.672,0,0,0,9.276,29.36Zm22.763-3.337a2,2,0,0,0-2-2H19.357a2,2,0,0,0,0,4H30.036A2,2,0,0,0,32.039,26.022Z" transform="translate(547.981 1883.639)" fill="#fff"/>
+  </g>
+</svg>

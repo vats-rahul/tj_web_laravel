@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Mouse_hover">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Mouse_hover" data-name="Mouse hover" clip-path="url(#clip-Mouse_hover)">
+    <path id="phone-call_2_" data-name="phone-call (2)" d="M13.21,9.636l4.7,4.7L15.53,16.713A4.417,4.417,0,0,1,12.375,18C6.939,18,0,11.061,0,5.625A4.425,4.425,0,0,1,1.287,2.469L3.665.091l4.7,4.7L5.27,7.884a9.1,9.1,0,0,0,4.84,4.851ZM16.5,7.5H18A7.508,7.508,0,0,0,10.5,0V1.5a6.007,6.007,0,0,1,6,6Zm-3,0H15A4.5,4.5,0,0,0,10.5,3V4.5A3,3,0,0,1,13.5,7.5Z" transform="translate(3 3)" fill="#fff"/>
+  </g>
+</svg>

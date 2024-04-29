@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #1a73e8;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11412" data-name="Rectangle 11412" class="cls-1" width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="icon_arrow_big_left" class="cls-2">
+    <path id="icon_arrow_right" class="cls-3" d="M23.4,22.874a.942.942,0,0,0,.324-.7.872.872,0,0,0-.324-.681l-4.158-3.944,4.183-3.968a.859.859,0,0,0,.311-.7.934.934,0,0,0-.336-.7.92.92,0,0,0-.71-.293,1.045,1.045,0,0,0-.71.293L17,16.864a1.235,1.235,0,0,0-.224.293.773.773,0,0,0-.1.387.71.71,0,0,0,.1.376,2.115,2.115,0,0,0,.224.305l4.955,4.649a.935.935,0,0,0,.722.293A1.06,1.06,0,0,0,23.4,22.874Z" transform="translate(-10.229 -7.878)"/>
+  </g>
+</svg>

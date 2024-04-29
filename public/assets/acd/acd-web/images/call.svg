@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9d85f9"/>
+      <stop offset="1" stop-color="#8467f0"/>
+    </linearGradient>
+    <filter id="Ellipse_6" x="0" y="0" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#ccc"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="call" transform="translate(-99 -2179)">
+    <g transform="matrix(1, 0, 0, 1, 99, 2179)" filter="url(#Ellipse_6)">
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="37" cy="37" r="37" transform="translate(18 14)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="phone-call_2_" data-name="phone-call (2)" d="M17.415,1.341A1.341,1.341,0,0,1,18.756,0,13.421,13.421,0,0,1,32.162,13.407a1.341,1.341,0,0,1-2.681,0A10.737,10.737,0,0,0,18.756,2.682a1.341,1.341,0,0,1-1.341-1.341Zm1.341,6.7a5.363,5.363,0,0,1,5.363,5.363,1.341,1.341,0,0,0,2.681,0,8.052,8.052,0,0,0-8.044-8.044,1.341,1.341,0,1,0,0,2.681Zm12.191,14.4a4.156,4.156,0,0,1,0,5.869l-1.22,1.406C18.746,40.229-7.973,13.517,2.377,2.5L3.919,1.162a4.131,4.131,0,0,1,5.8.054c.042.042,2.526,3.268,2.526,3.268a4.156,4.156,0,0,1-.009,5.741l-1.552,1.952a17.135,17.135,0,0,0,9.292,9.311l1.964-1.562a4.156,4.156,0,0,1,5.739-.008S30.9,22.4,30.946,22.442ZM29.1,24.391s-3.208-2.468-3.25-2.51a1.475,1.475,0,0,0-2.077,0c-.036.038-2.74,2.192-2.74,2.192a1.341,1.341,0,0,1-1.312.2A20.122,20.122,0,0,1,7.9,12.469a1.341,1.341,0,0,1,.194-1.341s2.154-2.705,2.191-2.74a1.475,1.475,0,0,0,0-2.077c-.042-.04-2.51-3.251-2.51-3.251a1.475,1.475,0,0,0-2.024.052L4.206,4.453C-3.358,13.548,19.8,35.418,27.766,27.886l1.221-1.408a1.5,1.5,0,0,0,.114-2.087Z" transform="translate(137.961 2213.839)" fill="#fff"/>
+  </g>
+</svg>

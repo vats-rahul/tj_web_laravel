@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11456" data-name="Rectangle 11456" class="cls-1" width="14" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="icon_windows" class="cls-2">
+    <g id="windows" transform="translate(0 -0.027)">
+      <g id="Group_15271" data-name="Group 15271" transform="translate(0 1.018)">
+        <g id="Group_15270" data-name="Group 15270">
+          <path id="Path_16831" data-name="Path 16831" class="cls-1" d="M0,2.417V6.942H6.335V1.625Z" transform="translate(0 -1.625)"/>
+        </g>
+      </g>
+      <g id="Group_15273" data-name="Group 15273" transform="translate(7.24)">
+        <g id="Group_15272" data-name="Group 15272">
+          <path id="Path_16832" data-name="Path 16832" class="cls-1" d="M8,1.4v5.43h7.24V.5Z" transform="translate(-8 -0.5)"/>
+        </g>
+      </g>
+      <g id="Group_15275" data-name="Group 15275" transform="translate(7.24 7.24)">
+        <g id="Group_15274" data-name="Group 15274">
+          <path id="Path_16833" data-name="Path 16833" class="cls-1" d="M8,8.5v5.43l7.24.9V8.5Z" transform="translate(-8 -8.5)"/>
+        </g>
+      </g>
+      <g id="Group_15277" data-name="Group 15277" transform="translate(0 7.24)">
+        <g id="Group_15276" data-name="Group 15276">
+          <path id="Path_16834" data-name="Path 16834" class="cls-1" d="M0,8.5v4.525l6.335.792V8.5Z" transform="translate(0 -8.5)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

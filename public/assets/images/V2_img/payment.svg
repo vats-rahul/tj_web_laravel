@@ -1,0 +1,13 @@
+<svg id="payment" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <circle id="Ellipse_13" data-name="Ellipse 13" cx="25" cy="25" r="25" fill="#f7f7f7"/>
+  <g id="credit-card_4_" data-name="credit-card (4)" transform="translate(11 12)">
+    <path id="Path_3684" data-name="Path 3684" d="M27.091,127.992H1.806A1.809,1.809,0,0,0,0,129.8v16.255a1.808,1.808,0,0,0,1.806,1.806H27.091a1.807,1.807,0,0,0,1.806-1.806V129.8A1.808,1.808,0,0,0,27.091,127.992Z" transform="translate(0 -122.575)" fill="#2196f3"/>
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="28.897" height="5.418" transform="translate(0 9.03)" fill="#455a64"/>
+    <g id="Group_2068" data-name="Group 2068" transform="translate(3.612 5.417)">
+      <path id="Path_3685" data-name="Path 3685" d="M68.515,353.8H64.9a.9.9,0,1,1,0-1.806h3.612a.9.9,0,0,1,0,1.806Z" transform="translate(-64 -339.349)" fill="#fafafa"/>
+      <path id="Path_3686" data-name="Path 3686" d="M240.255,136.925V129.8a1.808,1.808,0,0,0-1.806-1.806H224V129.8c0,5.657,2.153,9.1,7.687,12.287a2.713,2.713,0,0,0,2.693,0A16.142,16.142,0,0,0,240.255,136.925Z" transform="translate(-214.97 -127.992)" fill="#fafafa"/>
+    </g>
+    <path id="Path_3687" data-name="Path 3687" d="M269.9,34.79l-6.321-2.709a.906.906,0,0,0-.713,0l-6.321,2.709a.9.9,0,0,0-.545.829v3.612c0,4.969,1.837,7.873,6.775,10.717a.908.908,0,0,0,.9,0c4.938-2.837,6.775-5.742,6.775-10.717V35.619A.9.9,0,0,0,269.9,34.79Z" transform="translate(-241.551 -32.008)" fill="#01b763"/>
+    <path id="Path_3688" data-name="Path 3688" d="M322.712,134.38h-.038a.906.906,0,0,1-.713-.4l-1.806-2.709a.9.9,0,1,1,1.5-1l1.122,1.681,2.839-3.551a.9.9,0,1,1,1.411,1.129l-3.612,4.515A.91.91,0,0,1,322.712,134.38Z" transform="translate(-301.942 -122.641)" fill="#fafafa"/>
+  </g>
+</svg>

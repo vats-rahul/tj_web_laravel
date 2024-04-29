@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Mid Market</title>
+    
+    <g id="Mid-Market" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+        <g id="Mid-Market-2" transform="translate(5.000000, 7.000000)">
+            <g id="Mid-Market">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="30" height="30"></rect>
+                <g id="buildings_1_" transform="translate(0.599400, 0.600000)" fill="#4573B0" fill-rule="nonzero">
+                    <path d="M27,27 L27,10.8 L14.4,10.8 L14.4,0 L1.8,0 L1.8,27 L0,27 L0,28.8 L28.8,28.8 L28.8,27 L27,27 Z M3.6,1.8 L7.2,1.8 L7.2,5.4 L3.6,5.4 L3.6,1.8 Z M3.6,7.2 L7.2,7.2 L7.2,10.8 L3.6,10.8 L3.6,7.2 Z M3.6,12.6 L7.2,12.6 L7.2,16.2 L3.6,16.2 L3.6,12.6 Z M3.6,18 L7.2,18 L7.2,21.6 L3.6,21.6 L3.6,18 Z M10.8,27 L5.4,27 L5.4,23.4 L10.8,23.4 L10.8,27 Z M12.6,21.6 L9,21.6 L9,18 L12.6,18 L12.6,21.6 Z M12.6,16.2 L9,16.2 L9,12.6 L12.6,12.6 L12.6,16.2 Z M12.6,10.8 L9,10.8 L9,7.2 L12.6,7.2 L12.6,10.8 Z M12.6,5.4 L9,5.4 L9,1.8 L12.6,1.8 L12.6,5.4 Z M16.2,12.6 L19.8,12.6 L19.8,16.2 L16.2,16.2 L16.2,12.6 Z M16.2,18 L19.8,18 L19.8,21.6 L16.2,21.6 L16.2,18 Z M23.4,27 L18,27 L18,23.4 L23.4,23.4 L23.4,27 Z M25.2,21.6 L21.6,21.6 L21.6,18 L25.2,18 L25.2,21.6 Z M25.2,16.2 L21.6,16.2 L21.6,12.6 L25.2,12.6 L25.2,16.2 Z" id="Path_4490"></path>
+                </g>
+                <rect id="Rectangle_1579" fill="#FB702C" x="15" y="11.4" width="13.2" height="18"></rect>
+                <rect id="Rectangle_1580" fill="#FFFFFF" x="17.4" y="13.2" width="3.6" height="3.6"></rect>
+                <rect id="Rectangle_1583" fill="#FFFFFF" x="17.4" y="19.2" width="3.6" height="3.6"></rect>
+                <rect id="Rectangle_1581" fill="#FFFFFF" x="22.8" y="13.2" width="3.6" height="3.6"></rect>
+                <rect id="Rectangle_1582" fill="#FFFFFF" x="22.8" y="19.2" width="3.6" height="3.6"></rect>
+                <rect id="Rectangle_1584" fill="#FFFFFF" x="19.2" y="24" width="6" height="3.6"></rect>
+                <polygon id="Path_4491" fill="#FB702C" points="27.5544 27.6 29.403 27.6 29.403 29.3904 27.5544 29.3904"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

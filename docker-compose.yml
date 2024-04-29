@@ -1,0 +1,23 @@
+version: "3.5"
+services:
+  laravel_app:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    container_name: 'tj_web_laravel'
+    restart: 'always'
+    ports:
+      - "8001:80"
+    volumes:
+      - ${DOCUMENT_ROOT-./}:/var/www/html
+      - ${PHP_INI-./build/docker-config/php.ini}:/usr/local/etc/php/php.ini
+      - ${VHOSTS_DIR-./build/docker-config/vhost.conf}:/etc/apache2/sites-enabled/vhost.conf
+      - /var/www/html/vendor
+      - ../devlaravellogs:/var/log/apache2
+    env_file:
+      - .env
+    networks:
+      - tj-net
+networks:
+  tj-net:
+    name: tj-net

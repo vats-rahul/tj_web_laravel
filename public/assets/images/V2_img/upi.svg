@@ -1,0 +1,8 @@
+<svg id="upi" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_41" data-name="Rectangle 41" width="24" height="24" transform="translate(0)" fill="none"/>
+  <g id="upi-ar21" transform="translate(0 8.324)">
+    <path id="Path_3668" data-name="Path 3668" d="M95.678,22.7l3.437-3.136-1.628-3.244Z" transform="translate(-75.115 -16.29)" fill="#097939" fill-rule="evenodd"/>
+    <path id="Path_3669" data-name="Path 3669" d="M90.854,22.7l3.437-3.136-1.628-3.244Z" transform="translate(-71.449 -16.29)" fill="#ed752e" fill-rule="evenodd"/>
+    <path id="Path_3670" data-name="Path 3670" d="M12.979,16.264l-1.447,5.154,5.138.036,1.411-5.19h1.3L17.691,22.3a.605.605,0,0,1-.551.418H10.555a.519.519,0,0,1-.528-.7l1.614-5.755Zm15.884-.036h1.3l-1.809,6.487H27.017Zm-9.335,2.7,6.513-.036.434-1.37H19.854l.4-1.261,7.056-.065a.569.569,0,0,1,.585.76l-.665,2.43a1.1,1.1,0,0,1-1.006.767H20.4l-.687,2.667H18.443Z" transform="translate(-10.001 -16.199)" fill="#747474" fill-rule="evenodd"/>
+  </g>
+</svg>

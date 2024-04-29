@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6aa3fa"/>
+      <stop offset="1" stop-color="#4a88fa"/>
+    </linearGradient>
+    <filter id="Rectangle_13" x="0" y="0" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="account_icon" transform="translate(-236 -1034)">
+    <g transform="matrix(1, 0, 0, 1, 236, 1034)" filter="url(#Rectangle_13)">
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="70" height="70" rx="15" transform="translate(15 10)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="icon_in" data-name="icon in" transform="translate(98.856 1060.152)">
+      <path id="Path_1" data-name="Path 1" d="M183.22,230.14h8.267a7.1,7.1,0,0,1,7.259,6.956v7.763a7.1,7.1,0,0,1-7.259,6.956H183.22a7.194,7.194,0,0,1-7.36-6.956V237.1A7.194,7.194,0,0,1,183.22,230.14Z" transform="translate(0 -215.017)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_2" data-name="Path 2" d="M249,0a7.108,7.108,0,0,1,0,14.216,7.186,7.186,0,0,1-7.158-7.158A7.166,7.166,0,0,1,249,0Z" transform="translate(-61.644 0)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

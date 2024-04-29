@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="mail_icon" transform="translate(3 1)">
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(-3 -1)" fill="#fff" stroke="#472dc2" stroke-width="0.7">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.65" fill="none"/>
+    </g>
+    <g id="_24px_7_" data-name="24px (7)" transform="translate(-0.466 1.534)">
+      <path id="Path_13" data-name="Path 13" d="M11.66,4H3.073c-.59,0-1.068.36-1.068.8L2,9.6c0,.44.483.8,1.073.8H11.66c.59,0,1.073-.36,1.073-.8V4.8C12.734,4.36,12.251,4,11.66,4Zm0,1.6-4.293,2-4.293-2V4.8l4.293,2,4.293-2Z" transform="translate(0.133 0.3)" fill="#472dc2"/>
+      <path id="Path_14" data-name="Path 14" d="M0,0H15V15H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>

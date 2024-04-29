@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="expert_icon" transform="translate(0 0)">
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="15" cy="15" r="15" transform="translate(0 0)" fill="#fff" opacity="0.3"/>
+    <g id="desktop" transform="translate(7.123 7.094)">
+      <path id="Path_16032" data-name="Path 16032" d="M154.227,401l-2.832,1.01-.107.375a1.421,1.421,0,0,1-1.287.971v.252h5.874Z" transform="translate(-144.951 -387.871)" fill="#adaca7"/>
+      <path id="Path_16033" data-name="Path 16033" d="M195.38,373.4l-.4-1.385L193.351,371l-1.633,1.01-.288,1.01h2.832l.107.375a1.421,1.421,0,0,0,1.287.971l.5.252.5-.252A1.421,1.421,0,0,1,195.38,373.4Z" transform="translate(-184.986 -358.881)" fill="#8f8f8b"/>
+      <path id="Path_16034" data-name="Path 16034" d="M437,256.049h1.01a1.013,1.013,0,0,0,1.01-1.01v-2.02L437,251Z" transform="translate(-422.289 -242.921)" fill="#adaca7"/>
+      <path id="Path_16035" data-name="Path 16035" d="M0,197.059a1.013,1.013,0,0,0,1.01,1.01h13.7a1.013,1.013,0,0,0,1.01-1.01V191L0,195.04Z" transform="translate(0 -184.941)" fill="#cbc9c2"/>
+      <path id="Path_16036" data-name="Path 16036" d="M438.01,11H437l1.01,10.1h1.01V12.01A1.013,1.013,0,0,0,438.01,11Z" transform="translate(-422.289 -11)" fill="#404242"/>
+      <path id="Path_16037" data-name="Path 16037" d="M15.721,12.01A1.013,1.013,0,0,0,14.711,11H1.01A1.013,1.013,0,0,0,0,12.01V21.1H15.721v-1.01l-7.355-4.04Z" transform="translate(0 -11)" fill="#565959"/>
+      <path id="Path_16038" data-name="Path 16038" d="M255.855,40.975h-1.01l-6.346,4.04,6.346,4.04h1.01S255.855,40.975,255.855,40.975Z" transform="translate(-240.135 -39.965)" fill="#18beb1"/>
+      <path id="Path_16039" data-name="Path 16039" d="M43.7,40.974H30s0,8.08,0,8.08H43.7s0-8.079,0-8.079Z" transform="translate(-28.99 -39.964)" fill="#4cd1c7"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="0.505" cy="0.505" r="0.505" transform="translate(7.86 11.109)" fill="#fff"/>
+      <path id="Path_16040" data-name="Path 16040" d="M96.688,471.5H86.252a.252.252,0,1,1,0-.5H96.688a.252.252,0,1,1,0,.5Z" transform="translate(-83.105 -455.515)" fill="#8f8f8b"/>
+    </g>
+  </g>
+</svg>

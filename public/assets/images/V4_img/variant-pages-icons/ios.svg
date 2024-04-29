@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11455" data-name="Rectangle 11455" class="cls-1" width="14" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="icon_iphone" class="cls-2">
+    <g id="app-store-ios" transform="translate(0 -0.425)">
+      <path id="Path_16830" data-name="Path 16830" class="cls-1" d="M11.51,0h-8.6A2.913,2.913,0,0,0,0,2.915v8.6a2.912,2.912,0,0,0,2.913,2.912h8.6a2.913,2.913,0,0,0,2.913-2.913v-8.6A2.915,2.915,0,0,0,11.51,0ZM3.988,11.421a.658.658,0,0,1-1.14-.656l.469-.811a1.124,1.124,0,0,1,1.3.373Zm4.558-1.77H2.579a.656.656,0,1,1,0-1.313H4.251L6.393,4.626,5.724,3.465a.658.658,0,0,1,1.14-.656l.287.507.292-.5a.657.657,0,0,1,1.14.656L5.768,8.337H7.8A.9.9,0,0,1,8.546,9.651Zm3.215,0h-.948l.64,1.11a.658.658,0,0,1-1.14.656Q8.7,8.616,7.888,7.22A1.816,1.816,0,0,1,8.119,5q.646,1.109,1.934,3.345h1.708a.656.656,0,1,1,0,1.313Z" transform="translate(0 -0.001)"/>
+    </g>
+  </g>
+</svg>

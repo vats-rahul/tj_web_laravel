@@ -1,0 +1,21 @@
+<svg id="icon_offers_20" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #444;
+      }
+    </style>
+  </defs>
+  <g id="Artboard" transform="translate(-79 -406)">
+    <g id="outline-local_offer-24px" transform="translate(79 406)">
+      <path id="Path" class="cls-1" d="M0,0H20V20H0Z"/>
+      <path id="Shape" class="cls-2" d="M17.842,9.65l-7.5-7.5a1.656,1.656,0,0,0-1.175-.483H3.333A1.672,1.672,0,0,0,1.667,3.333V9.167a1.663,1.663,0,0,0,.492,1.183l7.5,7.5a1.656,1.656,0,0,0,1.175.483,1.629,1.629,0,0,0,1.175-.492l5.833-5.833a1.629,1.629,0,0,0,.492-1.175A1.683,1.683,0,0,0,17.842,9.65Zm-7.008,7.025-7.5-7.508V3.333H9.167V3.325l7.5,7.5-5.833,5.85Z"/>
+      <circle id="Oval" class="cls-2" cx="1.25" cy="1.25" r="1.25" transform="translate(4.167 4.167)"/>
+    </g>
+  </g>
+</svg>

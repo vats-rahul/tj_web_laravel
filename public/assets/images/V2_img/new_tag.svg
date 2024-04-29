@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.645" height="15" viewBox="0 0 28.645 15">
+  <g id="icon_new_tag" transform="translate(0.261 -94.328)">
+    <path id="Path_16401" data-name="Path 16401" d="M2.063,107.987H26.582a1.915,1.915,0,0,0,2.063-1.718V94.718A1.915,1.915,0,0,0,26.582,93H2.063A1.915,1.915,0,0,0,0,94.718v11.55A1.915,1.915,0,0,0,2.063,107.987Z" transform="translate(-0.261 1.335)" fill="#24a8af"/>
+    <g id="Group_14173" data-name="Group 14173" transform="translate(3.541 98.362)">
+      <path id="Path_16402" data-name="Path 16402" d="M103.663,200.063v6.814H101.4l-1.7-5.611h-.1v5.611H98.205v-6.814h2.335l1.643,5.611h.1v-5.611Z" transform="translate(-98.205 -200.063)" fill="#fff"/>
+      <path id="Path_16403" data-name="Path 16403" d="M201.135,201.266v1.593h2.425v1.182h-2.425v1.634h3.026v1.2h-4.409v-6.814h4.409v1.2Z" transform="translate(-192.808 -200.063)" fill="#fff"/>
+      <path id="Path_16404" data-name="Path 16404" d="M272.87,200.063h1.453l.842,5.632h.15l1.222-5.632h1.6l1.222,5.632h.15l.842-5.632h1.453l-1.3,6.814h-2.094l-1.072-5.18-1.072,5.18h-2.094Z" transform="translate(-260.926 -200.063)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

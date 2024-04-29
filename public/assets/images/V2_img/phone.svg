@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="24" height="24" transform="translate(52 12)" fill="#24272c"/>
+    </clipPath>
+  </defs>
+  <g id="phone" transform="translate(-49 -9)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="30" height="30" transform="translate(49 9)" fill="none"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <path id="call_FILL1_wght400_GRAD0_opsz48_1_" data-name="call_FILL1_wght400_GRAD0_opsz48 (1)" d="M26.5,28a17.981,17.981,0,0,1-8.083-2A27.445,27.445,0,0,1,11.2,20.8,27.445,27.445,0,0,1,6,13.583,17.981,17.981,0,0,1,4,5.5,1.48,1.48,0,0,1,5.5,4h4.667a1.179,1.179,0,0,1,.817.317,1.473,1.473,0,0,1,.45.85l.9,4.2a2.4,2.4,0,0,1-.017.85,1.284,1.284,0,0,1-.35.65L8.633,14.233a27.675,27.675,0,0,0,4.183,5.4,23.12,23.12,0,0,0,5.25,3.9l3.167-3.267A1.843,1.843,0,0,1,22,19.75a1.541,1.541,0,0,1,.867-.05l3.967.867A1.456,1.456,0,0,1,28,22v4.5A1.48,1.48,0,0,1,26.5,28Z" transform="translate(48 8)" fill="#24272c"/>
+    </g>
+  </g>
+</svg>

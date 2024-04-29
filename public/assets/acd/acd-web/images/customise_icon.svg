@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#68bafe"/>
+      <stop offset="1" stop-color="#40a4f9"/>
+    </linearGradient>
+    <filter id="Ellipse_27" x="0" y="0" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#ccc"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="customise_icon" transform="translate(-1112 -2190)">
+    <g transform="matrix(1, 0, 0, 1, 1112, 2190)" filter="url(#Ellipse_27)">
+      <circle id="Ellipse_27-2" data-name="Ellipse 27" cx="37" cy="37" r="37" transform="translate(18 14)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="grin-hearts" d="M19.106,0A19.106,19.106,0,1,0,38.212,19.106,19.106,19.106,0,0,0,19.106,0Zm0,35.028A15.922,15.922,0,1,1,35.028,19.106,15.922,15.922,0,0,1,19.106,35.028ZM19.1,23.883a34.905,34.905,0,0,0,9.564-1.592c-.979,3.63-4.242,7.961-9.553,7.961s-8.585-4.331-9.564-7.961A34.775,34.775,0,0,0,19.1,23.883ZM7.961,13.534a2.388,2.388,0,1,1,4.777,0,2.388,2.388,0,1,1,4.777,0c0,2.786-4.777,5.971-4.777,5.971a21.245,21.245,0,0,1-2.527-2.075C9.213,16.491,7.961,14.96,7.961,13.534Zm22.291,0c0,2.786-4.777,5.971-4.777,5.971S20.7,16.32,20.7,13.534a2.388,2.388,0,0,1,4.777,0,2.388,2.388,0,0,1,4.777,0Z" transform="translate(1147.894 2221.894)" fill="#fff"/>
+  </g>
+</svg>

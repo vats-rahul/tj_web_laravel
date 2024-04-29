@@ -1,0 +1,8 @@
+<svg id="tick_icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <path id="Path_18" data-name="Path 18" d="M0,0H16V16H0Z" fill="none"/>
+  <g id="check-mark_1_" data-name="check-mark (1)" transform="translate(3 -1.814)">
+    <g id="Group_189" data-name="Group 189" transform="translate(0 5.814)">
+      <path id="Path_25" data-name="Path 25" d="M4.93,13.563a1.265,1.265,0,0,1-1.788,0L.37,10.792A1.265,1.265,0,1,1,2.159,9L3.81,10.655a.32.32,0,0,0,.452,0l4.47-4.47A1.265,1.265,0,1,1,10.52,7.973Z" transform="translate(0 -5.814)" fill="#3bae8c"/>
+    </g>
+  </g>
+</svg>

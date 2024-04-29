@@ -1,0 +1,33 @@
+<svg id="debit" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_41" data-name="Rectangle 41" width="24" height="24" fill="none"/>
+  <g id="credit-card_3_" data-name="credit-card (3)" transform="translate(2.387 3.454)">
+    <path id="Path_3619" data-name="Path 3619" d="M77.243,40.594v9.586a1.254,1.254,0,0,1-1.258,1.258H60.714a1.254,1.254,0,0,1-1.258-1.258V40.594a1.258,1.258,0,0,1,1.258-1.258H75.985A1.258,1.258,0,0,1,77.243,40.594Z" transform="translate(-57.119 -39.336)" fill="#6f7070"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="17.794" height="2.043" transform="translate(2.334 2.288)" fill="#464646"/>
+    <g id="Group_2013" data-name="Group 2013" transform="translate(10.799 0.515)">
+      <path id="Path_3620" data-name="Path 3620" d="M279.392,52.44h-4.059a.629.629,0,0,0,0,1.258h4.059a.629.629,0,0,0,0-1.258Z" transform="translate(-274.704 -52.44)" fill="#787878"/>
+      <path id="Path_3621" data-name="Path 3621" d="M426.321,52.44h-1.1a.629.629,0,0,0,0,1.258h1.1a.629.629,0,0,0,0-1.258Z" transform="translate(-418.7 -52.44)" fill="#787878"/>
+    </g>
+    <g id="Group_2014" data-name="Group 2014" transform="translate(3.372 2.681)">
+      <path id="Path_3622" data-name="Path 3622" d="M89.472,107.528H86.4a.629.629,0,0,0,0,1.258h3.067a.629.629,0,0,0,0-1.258Z" transform="translate(-85.776 -107.528)" fill="#3e3e3e"/>
+      <path id="Path_3623" data-name="Path 3623" d="M212.176,107.528h-1.1a.629.629,0,0,0,0,1.258h1.1a.629.629,0,0,0,0-1.258Z" transform="translate(-205.547 -107.528)" fill="#3e3e3e"/>
+    </g>
+    <g id="Group_2015" data-name="Group 2015" transform="translate(17.344 6.063)" opacity="0.07">
+      <path id="Path_3624" data-name="Path 3624" d="M444,195.922v2.434a1.254,1.254,0,0,1-1.258,1.258h-1.522l.434-6.038Z" transform="translate(-441.216 -193.576)" fill="#010101"/>
+    </g>
+    <path id="Path_3625" data-name="Path 3625" d="M16.534,176.9H1.258A1.258,1.258,0,0,1,0,175.637V166.05a1.258,1.258,0,0,1,1.258-1.258H16.534a1.258,1.258,0,0,1,1.258,1.258v9.587A1.258,1.258,0,0,1,16.534,176.9Z" transform="translate(0 -159.86)" fill="#4b9fd8"/>
+    <g id="Group_2016" data-name="Group 2016" transform="translate(0 4.932)">
+      <path id="Path_3626" data-name="Path 3626" d="M8.126,164.792A23.26,23.26,0,0,0,.013,175.761,1.226,1.226,0,0,1,0,175.6v-9.586a1.255,1.255,0,0,1,.975-1.226Z" transform="translate(0 -164.792)" fill="#3a9bd6"/>
+      <path id="Path_3627" data-name="Path 3627" d="M245.9,204.609a23.26,23.26,0,0,0,8.114-10.969,1.226,1.226,0,0,1,.013.157v9.586a1.255,1.255,0,0,1-.975,1.226Z" transform="translate(-236.237 -192.506)" fill="#3a9bd6"/>
+    </g>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="1.532" cy="1.532" r="1.532" transform="translate(10.642 6.819)" fill="#fee218"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="1.532" cy="1.532" r="1.532" transform="translate(12.842 6.819)" fill="#cd494c"/>
+    <g id="Group_2017" data-name="Group 2017" transform="translate(1.66 7.722)">
+      <path id="Path_3628" data-name="Path 3628" d="M45.829,319.138H42.853a.629.629,0,1,1,0-1.258h2.976a.629.629,0,0,1,0,1.258Z" transform="translate(-42.224 -314.652)" fill="#fff"/>
+      <path id="Path_3629" data-name="Path 3629" d="M48.487,237.026H42.853a.629.629,0,1,1,0-1.258h5.634a.629.629,0,1,1,0,1.258Z" transform="translate(-42.224 -235.768)" fill="#fff"/>
+    </g>
+    <path id="Path_3630" data-name="Path 3630" d="M44.68,401.25H42.837a.629.629,0,1,1,0-1.258H44.68a.629.629,0,0,1,0,1.258Z" transform="translate(-40.549 -385.814)" fill="#8bd5ec"/>
+    <path id="Path_3631" data-name="Path 3631" d="M141.128,401.25h-1.843a.629.629,0,0,1,0-1.258h1.843a.629.629,0,1,1,0,1.258Z" transform="translate(-133.205 -385.814)" fill="#daeff6"/>
+    <path id="Path_3632" data-name="Path 3632" d="M237.56,401.25h-1.843a.629.629,0,1,1,0-1.258h1.843a.629.629,0,0,1,0,1.258Z" transform="translate(-225.846 -385.814)" fill="#8bd5ec"/>
+    <path id="Path_3633" data-name="Path 3633" d="M333.992,401.25h-1.843a.629.629,0,1,1,0-1.258h1.843a.629.629,0,0,1,0,1.258Z" transform="translate(-318.488 -385.814)" fill="#daeff6"/>
+  </g>
+</svg>

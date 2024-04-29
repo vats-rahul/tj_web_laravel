@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6cbcfe"/>
+      <stop offset="1" stop-color="#3da2f8"/>
+    </linearGradient>
+    <filter id="Ellipse_1" x="0" y="0" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#ccc"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="after_sales_icon" transform="translate(-509 -1848)">
+    <g transform="matrix(1, 0, 0, 1, 509, 1848)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="37" cy="37" r="37" transform="translate(18 14)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="earnings" transform="translate(550.168 1885.168)">
+      <path id="Path_16313" data-name="Path 16313" d="M24.836,0H14.985V3.458h6.777L0,25.22l2.445,2.445L24.206,5.9V12.68h3.458V2.829A2.832,2.832,0,0,0,24.836,0Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_16314" data-name="Path 16314" d="M7.187,12.374A5.187,5.187,0,1,0,2,7.187a5.187,5.187,0,0,0,5.187,5.187Zm0-6.916A1.729,1.729,0,1,1,5.458,7.187,1.729,1.729,0,0,1,7.187,5.458Z" transform="translate(0.305 0.305)" fill="#fff"/>
+      <path id="Path_16315" data-name="Path 16315" d="M18.187,13a5.187,5.187,0,1,0,5.187,5.187A5.187,5.187,0,0,0,18.187,13Zm0,6.916a1.729,1.729,0,1,1,1.729-1.729A1.729,1.729,0,0,1,18.187,19.916Z" transform="translate(1.985 1.985)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

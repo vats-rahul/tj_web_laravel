@@ -1,0 +1,321 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 Dec, 2021, 12:21:21 PM
+    Author     : chetan
+*/
+
+.otp-popup{
+    line-height: 1.8 !important;
+}
+
+.otp-popup .col-md-12 {
+    float: left !important;
+    width: 100% !important;
+    padding: unset !important;
+}
+
+.otp-popup .t-uppercase.mb-10 {
+    margin: 0 0 35px !important;
+    font-family: 'Poppins2' !important ;
+    font-size: 25px !important ;
+    font-weight: 500 !important ;
+    font-stretch: normal !important ;
+    font-style: normal !important ;
+    line-height: 1.4 !important ;
+    letter-spacing: normal !important ;
+    text-align: center !important ;
+    color: #202020 !important ;
+}
+
+.otp-popup .submitbtndiv{
+    margin-bottom: 9px !important;
+    text-align: center;
+}
+
+.otp-popup .otp-btn {
+    position: unset !important;
+    letter-spacing: normal !important;
+    height: 50px !important;
+    padding: 20px !important;
+    border-radius: 4px !important;
+    border: none !important;
+    margin: 0 auto !important;
+    margin-top: 30px !important;
+    font-family: Poppins !important;
+    font-size: 22px !important;
+    font-weight: 600 !important;
+    line-height: 0px !important;
+    color: #fff !important;
+    cursor: pointer !important;
+    background-color: #e54d11 !important;
+    width: 62%;
+    float: none;
+}
+
+.otp-hero-form {
+    /* width: 75%; */
+    background-color: #fff;
+    /* box-shadow: 0 0 30px rgb(0 0 0 / 15%); */
+    color: #314555;
+    margin: auto;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.otp-hero-form-header{
+    margin-top: 15px;
+}
+
+.otp-popup {
+    margin: 75px auto;
+    max-width: 480px;
+    position: relative;
+}
+
+@media only screen and (max-width: 600px) {
+    .otp-popup {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0; 
+        right: 0;
+    }
+   
+    .otp-hero-form.float-center.float-md-right.t-center.t-md-left.otpform{
+        width: 100% !important;
+    }
+
+    .otp-hero-form {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100% !important;
+        background-color: #fff;
+        /* box-shadow: 0 0 30px rgb(0 0 0 / 15%); */
+        color: #314555;
+        margin: auto;
+        box-sizing: border-box;
+        padding: 15px;
+        border-radius: 4px;
+    }
+
+    .otp-popup .close{
+        display: none;
+        right: 15px !important;
+        top:2px !important;
+    }
+    .otp-popup .t-uppercase.mb-10 {
+        font-size: 20px !important ;
+    }
+}
+
+.otp-overlay {
+    transition: opacity 200ms;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 99999;
+}
+.otp-popup .close {
+    display: none;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: -5px;
+    right: 75px;
+    float: right;
+    opacity: 0.8;
+    transition: all 200ms;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+    line-height: unset;
+    text-shadow: none;
+}
+.otp-close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.otp-content {
+    background-color: #fff;
+    border:none;
+}
+.otp-overlay:target {
+    visibility: visible;
+    opacity: 1;
+}
+input.tj-lp-otc {
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1;
+    margin-left: .1em;
+    margin-right: 1rem;
+    padding: 4px 0 4px;
+    font-size: 30px;
+    text-align: center;
+    border: solid 1px #ccc;
+    color: #24272c;
+    border-radius: 4px;
+    box-shadow: 0 5px 10px 0 rgb(0 0 0 / 5%);
+    padding: 0 !important;
+    appearance: textfield;
+    -webkit-appearance: textfield;
+
+}
+span.phoneno {
+    /* font-size: 20px; */
+    color: #000;
+    font-weight: 600;
+}
+span.phoneedit a{
+    /* font-size: 14px; */
+    margin-left: 20px;
+    color:#272065 !important;
+}
+.chag-tp1.digit-group.otp_digits {
+    text-align: center;
+}
+
+/* .otp-hero-form.float-center.float-md-right.t-center.t-md-left.otpform {
+    width: 70%;
+} */
+.belowcode {
+    margin-top: 12px;
+    text-align: center;
+}
+span.recivecode {
+    color: #000;
+}
+span.resend {
+    color: red;
+    cursor: pointer;
+}
+
+span.otp-timer {
+    color: red;
+}
+
+.hide{
+    display: none !important;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+
+.spinner {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+
+.spinnerblock {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    height: 30px;
+}
+
+.white > div {
+    width: 10px;
+    height: 10px;
+    background-color: #fff;
+    margin: 0px 2px;
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+    animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.whiteblock > div {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    margin: 6px 2px;
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+    animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.purple > div {
+    width: 10px;
+    height: 10px;
+    background-color: #472dc2;
+    margin: 0px 2px;
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+    animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.purpleblock > div {
+    width: 20px;
+    height: 20px;
+    background-color: #472dc2;
+    margin: 6px 2px;
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+    animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+
+.spinner .bounce1,
+.spinnerblock .bounce1 {
+    -webkit-animation-delay: -0.32s;
+    animation-delay: -0.32s;
+}
+
+.spinner .bounce2,
+.spinnerblock .bounce2 {
+    -webkit-animation-delay: -0.16s;
+    animation-delay: -0.16s;
+}
+
+@-webkit-keyframes sk-bouncedelay {
+    0%,
+    80%,
+    100% {
+        -webkit-transform: scale(0);
+    }
+    40% {
+        -webkit-transform: scale(1);
+    }
+}
+@keyframes sk-bouncedelay {
+    0%,
+    80%,
+    100% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+    40% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+.swal2-container.swal2-bottom, .swal2-container.swal2-center, .swal2-container.swal2-top{
+    z-index: 9999999 !important;
+}
+
+.swal2-title{
+    font-size: 16px !important;
+}
+
+.show_otp_popup {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
