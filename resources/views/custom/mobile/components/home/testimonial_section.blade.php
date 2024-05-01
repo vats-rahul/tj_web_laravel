@@ -6,7 +6,7 @@
             <div class="text-slider-mi">
                 <div class="col-md-12">
                     <div class="test-img1-mi">
-                        <img class="lazyload" src="{{ config('constants.DEFAULT_IMAGE')}}"
+                        <img class="lazyload testimonial_img" src="{{ config('constants.DEFAULT_IMAGE')}}"
                             data-src="{{ config('constants.DIR_FS_TECHJOCKEY_IMAGES') . 'testimonials/' . $tl->image }}"
                             alt="Software review {{ $tl->client_name }}"
                             title="Software review by {{ $tl->client_name }}"

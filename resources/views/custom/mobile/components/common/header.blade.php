@@ -9,42 +9,6 @@
                 <span class="nav_head_element" data-id="nav_menu" data-action="html"
                     data-ref="{{ url()->current() }}"><img src="{{ asset('assets/images/V2_img/res-1.jpg') }}" alt="Menu icon"></span>
             </div>
-            <div class="tjout">
-                <div class="nav_close">
-                    <span class="close" data-target="nav_menu_cont" data-call="toggleClass">
-                        <img src="{{ asset('assets/images/V2_img/close_white.svg') }}" alt="close">
-                    </span>
-                </div>
-                <nav class="navigation">
-                    <span class="dic1"> Discover & Buy </span>
-                    <ul class="mainmenu">
-                        <li>
-                            <a href="{{ url('/') }}" class="trigger_event" data-gacat="Left Menu in Mobile"
-                                data-gaaction="Click on Home">Home</a>
-                        </li>
-                        <li>
-                            <p class="toggle-sub-menu">Free IT Consultation <span class="open-nav"></span> </p>
-                            <ul class="submenu">
-                                <li><a href="{{ url('experts') }}" class="trigger_event"
-                                        data-gacat="Left Menu Consultation" data-gaaction="Free IT Solution"
-                                        data-galabel="Request A Call Back">Request A Call Back</a></li>
-                                <li><a href="{{ url('experts') }}" class="trigger_event"
-                                        data-gacat="Left Menu Consultation" data-gaaction="Free IT Solution"
-                                        data-galabel="Call Now">Call now </a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <p class="toggle-sub-menu">Categories <span class="open-nav"></span> </p>
-
-                            <ul class="submenu">
-                                <li><a href="{{ url('category/retail-billing-software') }}" class="trigger_event"
-                                        data-gacat="Left Menu Categories" data-gaaction="Categories"
-                                        data-galabel="Billing Software">Retail Billing Software</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
         </div>
         <div class="col-md-8 search-p1">
             <div class="logo_section">

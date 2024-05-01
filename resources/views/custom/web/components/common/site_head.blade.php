@@ -51,7 +51,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com" as="googlefontapi">
 <link rel="preconnect" href="https://fonts.gstatic.com" as="googlefont" crossorigin>
-<link rel="preconnect" href="{{ config('app.aws_path') }}" as="aws" crossorigin>
+<link rel="preconnect" href="{{ config('constants.AWS_PATH') }}" as="aws" crossorigin>
 
 <script type="application/ld+json">
     {

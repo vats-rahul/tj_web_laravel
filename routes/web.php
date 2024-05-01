@@ -28,4 +28,5 @@ if ($isMobile) {
 
 Route::get('/ajax/userInfo', [Ajax::class, 'userInfo'])->name('ajax.userInfo');
 Route::get('/ajax/renderHeaderNavElements', [Ajax::class, 'renderHeaderNavElements'])->name('ajax.renderHeaderNavElements');
+Route::get('/ajax/renderMobileElements', [Ajax::class, 'renderMobileElements'])->name('ajax.renderMobileElements');
 

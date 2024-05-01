@@ -19,7 +19,7 @@ class Ajax extends Controller
         $response = [];
         $response['element'] = $nav_element;
         $response['action'] = $action;
-        $customerId = Session::get('customer_id');
+        $customer_id = Session::get('customer_id');
         $Ajaxlib = new AjaxLib();
 
         switch ($nav_element) {
@@ -99,6 +99,81 @@ class Ajax extends Controller
                 break;
             default:
                 error_log($nav_element.": header nav element not found");
+                break;
+        }
+    }
+
+    public function renderMobileElements(Request $request){
+        $navElement = $request->input('nav_element');
+        $action = $request->input('action');
+        $source = $request->input('source', 'web');
+        $redirectUrl = $request->input('ru', '');
+        $pageType = $request->input('page_type', 'Techjockey');
+        $page = $request->input('page', 'Techjockey');
+        $version = $request->input('version', 'V2');
+        $variant = $request->input('variant', '');
+        $response = array();
+        $response['element'] = $navElement;
+        $response['action'] = $action;
+        $customer_id = Session::get('customer_id');
+        $ajaxLib = new AjaxLib();
+        switch ($navElement) {
+            case 'nav_menu':
+                $data['current_url'] = $request->input('ref');
+                $data['page_type'] = $pageType;
+                $data['page'] = $page;
+                $data['version'] = $version;
+                $data['variant'] = $variant;
+                $response['content'] = $ajaxLib->renderNavMenu($data);
+                return response()->json($response);
+                break;
+            case 'search_popup':
+                $response['content'] = $ajaxLib->renderSearchPopupContent($source);
+                return response()->json($response);
+                break;
+
+            case 'login_popup':
+                $response['content'] = '';
+                if (!$customer_id) {
+                    $response['content'] = $ajaxLib->renderLoginPopupContent('mobile', $redirectUrl);
+                }
+                return response()->json($response);
+                break;
+            case 'cart_icon_cont':
+                    $response['content'] = $ajaxLib->renderHeaderCartQty();
+                    return response()->json($response);
+                    break;
+    
+            case 'cart-summary-cont':
+                    $response['content'] = $ajaxLib->renderHeaderCartContents();
+                    return response()->json($response);
+                    break;
+    
+            case 'cart_confirmation_popup':
+                    $response['content'] = $ajaxLib->renderConfirmationPopup();
+                    return response()->json($response);
+                    break;
+    
+            case 'compare_popup':
+                    $response['content'] = '';
+                    $arrCompares = Session::get('compareProducts');
+                    if (count($arrCompares) > 0) {
+                        $response['content'] = $ajaxLib->renderComparePopup($arrCompares);
+                    }
+                    return response()->json($response);
+                    break;
+    
+            case 'sort_by':
+                    $data = [
+                        'page_type' => $pageType,
+                        'page' => $page,
+                        'version' => $version
+                    ];
+                    $response['content'] = $ajaxLib->renderSortByPopup($data);
+                    return response()->json($response);
+                    break;    
+            default:
+                error_log($nav_element.": header nav element not found on mobile");
                 break;
         }
     }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>blogs_20</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-79.000000, -799.000000)" fill="#24272C" fill-rule="nonzero">
+            <g id="round-web-24px" transform="translate(81.000000, 803.000000)">
+                <path d="M14.4,0 L1.6,0 C0.72,0 0.008,0.73125 0.008,1.625 L0,11.375 C0,12.26875 0.72,13 1.6,13 L14.4,13 C15.28,13 16,12.26875 16,11.375 L16,1.625 C16,0.73125 15.28,0 14.4,0 Z M1.6,4.0625 L10,4.0625 L10,6.90625 L1.6,6.90625 L1.6,4.0625 Z M1.6,8.53125 L10,8.53125 L10,11.375 L2.4,11.375 C1.96,11.375 1.6,11.009375 1.6,10.5625 L1.6,8.53125 Z M13.6,11.375 L11.6,11.375 L11.6,4.0625 L14.4,4.0625 L14.4,10.5625 C14.4,11.009375 14.04,11.375 13.6,11.375 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

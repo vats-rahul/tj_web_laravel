@@ -36,7 +36,7 @@
                                     data-gacat="{{ ucfirst($page_type) }} Page"
                                     data-gaaction="Interacted with {{ $ga_action }}"
                                     data-galabel="Clicked on Product Logo | {{ $product_details['product_name'] }} | {{ $page }}">
-                                    <img class="imgid_{{ $product_details['product_id'] }} lazyload"
+                                    <img class="imgid_{{ $product_details['product_id'] }} lazyload top_product_img"
                                         src="{{ config('constants.DEFAULT_IMAGE') }}" data-src="{{ $prod_img }}"
                                         alt="{{ $product_details['product_name'] }}" onerror="imgError(this,'prod');">
                                 </a>

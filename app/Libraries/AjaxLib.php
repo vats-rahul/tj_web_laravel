@@ -112,7 +112,6 @@ class Ajaxlib{
 		}
 		return $content;
 	}
-
 	public function getUserInfo($customerId)
     {
         $customer = DB::table('tbl_customer')
@@ -122,5 +121,21 @@ class Ajaxlib{
 
         return $customer ? (array) $customer : null;
     }
-    
+	public function renderNavMenu($params)
+	{
+		$customer_id = session()->get('customer_id');
+		$name = session()->get('name');
+		$email = session()->get('email');
+		$currentUrl = $params['current_url'];
+		$pageType = $params['page_type'];
+		$page = $params['page'];
+		
+		if ($params['variant'] === 'enterprise') {
+			$content = view('.common.ajax_pages.mobile.enterprise_nav_menu', compact('customer_id', 'name', 'email', 'currentUrl', 'pageType', 'page'))->render();
+		} else {
+			$content = view('.custom.mobile.components.home.nav_menu', compact('customer_id', 'name', 'email', 'currentUrl', 'pageType', 'page'))->render();
+		}
+		
+		return $content;
+	}
 }

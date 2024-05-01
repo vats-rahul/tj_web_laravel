@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>address_20</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-79.000000, -743.000000)">
+            <g id="outline-place-24px" transform="translate(79.000000, 743.000000)">
+                <polygon id="Path" points="0 0 20 0 20 20 0 20"></polygon>
+                <path d="M10,1.66666667 C6.775,1.66666667 4.16666667,4.275 4.16666667,7.5 C4.16666667,11.875 10,18.3333333 10,18.3333333 C10,18.3333333 15.8333333,11.875 15.8333333,7.5 C15.8333333,4.275 13.225,1.66666667 10,1.66666667 Z M5.83333333,7.5 C5.83333333,5.2 7.7,3.33333333 10,3.33333333 C12.3,3.33333333 14.1666667,5.2 14.1666667,7.5 C14.1666667,9.9 11.7666667,13.4916667 10,15.7333333 C8.26666667,13.5083333 5.83333333,9.875 5.83333333,7.5 Z" id="Shape" fill="#24272C" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#24272C" fill-rule="nonzero" cx="10" cy="7.5" r="2.08333333"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

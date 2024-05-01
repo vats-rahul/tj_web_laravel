@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="demo_disabled" transform="translate(-19 -13)">
+    <rect id="Rectangle_1079" data-name="Rectangle 1079" width="16" height="16" transform="translate(19 13)" fill="none"/>
+    <g id="video-call" transform="translate(19.511 -58.596)">
+      <g id="Group_1897" data-name="Group 1897" transform="translate(1.934 74.596)">
+        <g id="Group_1896" data-name="Group 1896" transform="translate(0 0)">
+          <path id="Path_67" data-name="Path 67" d="M79.247,74.719a.421.421,0,0,0-.3-.123H69.279a.421.421,0,0,0-.421.421v6.218H69.7v-5.8h8.827v5.8h.843V75.017A.421.421,0,0,0,79.247,74.719Z" transform="translate(-68.858 -74.596)" fill="#24272c"/>
+        </g>
+      </g>
+      <g id="Group_1899" data-name="Group 1899" transform="translate(4.546 76.272)">
+        <g id="Group_1898" data-name="Group 1898" transform="translate(0 0)">
+          <path id="Path_68" data-name="Path 68" d="M165.756,137.3a1.775,1.775,0,1,0-2.521,0,2.685,2.685,0,0,0-1.384,1.94h5.288A2.685,2.685,0,0,0,165.756,137.3Z" transform="translate(-161.851 -134.272)" fill="#24272c"/>
+        </g>
+      </g>
+      <g id="Group_1901" data-name="Group 1901" transform="translate(0 82.078)">
+        <g id="Group_1900" data-name="Group 1900" transform="translate(0 0)">
+          <path id="Path_69" data-name="Path 69" d="M7.611,341v.03a.421.421,0,1,1-.843,0V341H0v.352a2.358,2.358,0,0,0,2.355,2.355h9.669a2.358,2.358,0,0,0,2.355-2.355V341Z" transform="translate(0 -341.003)" fill="#24272c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
