@@ -32,6 +32,37 @@
                         data-link="{{ url('wishlist') }}"><img alt="wishlist"
                             src="{{ asset('assets/images/V2_img/hr1.jpg') }}"></span>
                 </li>
+                <li class="cart-2" id="cart_contents">
+                @php
+                    $cartLib = app()->make('App\Libraries\CartLib');
+                    $cartContents = collect($cartLib->contents());
+                    $lastProduct = collect($cartContents)->last();
+                    $lastSlug = optional($lastProduct)['product_slug']; // Adding optional() helper to handle null value
+                    
+                    $buyNowItems = collect($cartContents)->filter(function ($item) {
+                        return $item['set_buy_now'] == 1;
+                    });
+
+                    $step = '';
+                    if ($buyNowItems->isNotEmpty()) {
+                        $step = '?step=payment';
+                    }
+
+                    $onClick = '';
+                    if ($lastSlug) { // Adding a null check
+                        $onClick = 'onclick="window.location.href=\'' . url("ordernow/$lastSlug") . '\'"';
+                    }
+                @endphp
+                    <p id="cart_icon_cont" class="trigger_event" data-gacat="{{ ucfirst($page_type) }} Page"
+                        data-onlyonce="true" data-gaaction="Cart Viewed" data-galabel="{{ $page }}"
+                        {{ $cartContents->count() > 0 ? $onClick : '' }}>
+                        <img alt="cart icon" src="{{ asset('assets/images/V2_img/hr2.jpg') }}">
+                    </p>
+
+                    @if ($cartContents->isEmpty())
+                        <div id="cart-summary-cont" class="dropdown-content"></div>
+                    @endif
+                </li>
             </ul>
         </div>
     </div>

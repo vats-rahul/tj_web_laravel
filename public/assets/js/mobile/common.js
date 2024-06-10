@@ -49,9 +49,8 @@ tj.loadThirdParty = function() {
 };
 
 tj.generateHeaderNavElement = function(element, action = 'html', ref = '') {
-    console.log("generatedHeader");
+    // console.log(element);
     var url = tj.baseUrl + 'ajax/renderMobileElements?nav_element=' + element + '&action=' + action + '&ru=' + tj.currentUrl + ref + '&page_type=' + tj.page_type + '&page=' + tj.page;
-    console.log(url);
     tj.api.AjaxRequest('GET', url, tj.renderElem);
 };
 
@@ -511,6 +510,7 @@ tj.imgError = function(i,t) {
 };
 
 tj.openSearchPopup = function () {
+    console.log("openSearchPopup");
     if (!tj.he['search_popup']) {
         tj.generateHeaderNavElement('search_popup', 'replaceWith');
     }
@@ -520,10 +520,13 @@ tj.openSearchPopup = function () {
 };
 
 tj.waitSearchPopup = function(element) {
+    console.log("waitSearchPopup");
     if($("." + element).children().length > 0) {
+        console.log("if");
         $('#keyword_main').focus();
         $('#keyword_main').click();
     } else {
+        console.log("else");
         setTimeout(function(){tj.waitSearchPopup(element)},100);
     }
 };

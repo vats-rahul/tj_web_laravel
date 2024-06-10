@@ -2,6 +2,7 @@
 
 namespace App\Libraries;
 use App\Models\AjaxModel;
+use Illuminate\Support\Facades\Log;
 
 class Ajaxlib{
 	
@@ -39,7 +40,7 @@ class Ajaxlib{
 		return $content;
 	}
     public function renderSearchPopupContent($source = 'web'){
-		$content = $this->CI->load->view('common/ajax_pages/'. $source .'/search_popup',NULL,true);
+		$content = view('custom.'.$source.'.components.common.ajaxpages.search_popup')->render();
 		return $content;
 	}
     public function renderLoginPopupContent($source = 'web', $redirect_url = '/'){
@@ -76,25 +77,28 @@ class Ajaxlib{
 
         return $content;
 	}
-    public function renderHeaderCartContents($source = 'web'){
-		$data = array();
-		$data['arrWishlistIds'] = array();
-		$data['cart_total_items'] = $this->CI->cart->total_items();
+	public function renderHeaderCartContents($source = 'web') {
+		$data = [];
+		$data['arrWishlistIds'] = [];
+		$cartLib = new CartLib();
+		$data['cart_total_items'] = $cartLib->totalItems();
+	
 		if ($data['cart_total_items'] > 0) {
-		    $data['customer_id'] = $this->CI->session->userdata('customer_id');
-		    if ($data['customer_id']){
-		        $arrWishlistIds = $this->CI->common->get_selected_columns('tbl_product_wishlist', array('product_id'), array('customer_id' => $data['customer_id']), $records = "multiple", $flag = false);
-		        $data['arrWishlistIds'] = array_column($arrWishlistIds, 'product_id');
-		    }
-	    }
-	    if($source == 'mobile') {
-	    	$content = $this->CI->load->view('V2/common/ajax_pages/mobile/cart_popup_summary',$data,true);
-	    } else {
-	    	$content = $this->CI->load->view('V2/common/ajax_pages/cart_popup_summary',$data,true);
-	    }
-
-	    return $content;
+			$data['customer_id'] = session()->get('customer_id');
+			if ($data['customer_id']) {
+				$arrWishlistIds = \DB::table('tbl_product_wishlist')
+									->where('customer_id', $data['customer_id'])
+									->pluck('product_id')
+									->toArray();
+				$data['arrWishlistIds'] = $arrWishlistIds;
+			}
+		}
+	
+		$view = $source == 'mobile' ? 'custom.mobile.components.common.ajaxpages.cart_popup_summary' : 'custom.web.components.common.ajax_pages.cart_popup_summary';
+	
+		return view($view, $data)->render();
 	}
+
     public function renderConfirmationPopup($source = 'web'){
 		if($source == 'mobile'){
 			$content = $this->CI->load->view('V2/common/ajax_pages/mobile/cart_confirmation_popup',NULL,true);

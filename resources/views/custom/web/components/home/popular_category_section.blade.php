@@ -33,7 +33,7 @@
                                     $data = \App\Helpers\Helper::getCompareProductsArray($value, $product_details);
                                     @endphp
                                     @if (!empty($data[0]) && !empty($data[1]))
-                                        @include('custom.web.components.home.compare_product_card', ['p1' => $data[0], 'p2' => $data[1], 'gaLabel' => 'Popular Comparison by Category | '])
+                                    @include('custom.web.components.home.compare_product_card', ['p1' => $data[0], 'p2' => $data[1], 'gaLabel' => 'Popular Comparison by Category | '])
                                     @endif
                                 @endforeach
                             </div>

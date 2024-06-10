@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Libraries\HomeLib;
+use App\Libraries\ElasticDataLib;
 // use App\Libraries\Redislib;
 
 class Techjockey extends Controller
@@ -29,6 +30,21 @@ class Techjockey extends Controller
         // print_r($data);
         // die;
         return view('custom/mobile/layout/home',$data);
+    }
 
+    public function fetchResult(Request $request)
+    {
+        $keyword = $request->input('query');
+        $page = $request->input('page', '');
+        $section = $request->input('section', '');
+
+        $search_keyword = addslashes($keyword);
+
+        // Assuming you have a service class to handle ElasticSearch data
+        $elasticDataService = new ElasticDataLib();
+        $results = $elasticDataService->autoComplete($search_keyword, $page, $section);
+        $results['query'] = $keyword;
+
+        return response()->json($results);
     }
 }

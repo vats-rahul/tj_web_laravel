@@ -128,7 +128,7 @@ class Ajax extends Controller
                 return response()->json($response);
                 break;
             case 'search_popup':
-                $response['content'] = $ajaxLib->renderSearchPopupContent($source);
+                $response['content'] = $ajaxLib->renderSearchPopupContent('mobile');
                 return response()->json($response);
                 break;
 
@@ -145,7 +145,7 @@ class Ajax extends Controller
                     break;
     
             case 'cart-summary-cont':
-                    $response['content'] = $ajaxLib->renderHeaderCartContents();
+                    $response['content'] = $ajaxLib->renderHeaderCartContents('mobile');
                     return response()->json($response);
                     break;
     

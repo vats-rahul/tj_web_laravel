@@ -39,7 +39,9 @@ return [
         "Trending" => "green"
     ]),
     'FOOTER_SOCIAL_IMAGE'=> '/assets/images/base64/footer_social_image.jpg',
-    'DIR_FS_BRAND_IMAGE'=>'https://cdn.techjockey.com/web/assets/images/techjockey/brands/'
+    'DIR_FS_BRAND_IMAGE'=>'https://cdn.techjockey.com/web/assets/images/techjockey/brands/',
+    'EL_STOP_WORDS'=>["so","sof","soft","softw","softwa","softwar","software"]
+
 
 ];
 ?>

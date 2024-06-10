@@ -26,7 +26,9 @@ if ($isMobile) {
     Route::get('/', [Techjockey::class,"index"]);
 }
 
-Route::get('/ajax/userInfo', [Ajax::class, 'userInfo'])->name('ajax.userInfo');
+Route::get('/ajax/cc', [Ajax::class, 'userInfo'])->name('ajax.userInfo');
 Route::get('/ajax/renderHeaderNavElements', [Ajax::class, 'renderHeaderNavElements'])->name('ajax.renderHeaderNavElements');
 Route::get('/ajax/renderMobileElements', [Ajax::class, 'renderMobileElements'])->name('ajax.renderMobileElements');
+
+Route::get('/fetchResult', [Techjockey::class, 'fetchResult'])->name('techjockey.fetchResult');
 
